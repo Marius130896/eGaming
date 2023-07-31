@@ -1,0 +1,1991 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:09:35] filterscripts = ""  (string)
+[03:09:35] logtimeformat = "[%H:%M:%S]"  (string)
+[03:09:35] ackslimit = 3000  (int)
+[03:09:35] messageholelimit = 3000  (int)
+[03:09:35] playertimeout = 10000  (int)
+[03:09:35] connseedtime = 300000  (int)
+[03:09:35] minconnectiontime = 0  (int)
+[03:09:35] 
+[03:09:35] Server Plugins
+[03:09:35] --------------
+[03:09:35]  Loading plugin: mysql_static.so
+[03:09:35]   Failed (plugins/mysql_static.so: cannot open shared object file: No such file or directory)
+[03:09:35]  Loading plugin: sscanf.so
+[03:09:35]   Failed (plugins/sscanf.so: cannot open shared object file: No such file or directory)
+[03:09:35]  Loading plugin: streamer.so
+[03:09:35]   Failed (plugins/streamer.so: cannot open shared object file: No such file or directory)
+[03:09:35]  Loaded 0 plugins.
+
+[03:09:35] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:09:35] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:09:49] filterscripts = ""  (string)
+[03:09:49] logtimeformat = "[%H:%M:%S]"  (string)
+[03:09:49] ackslimit = 3000  (int)
+[03:09:49] messageholelimit = 3000  (int)
+[03:09:49] playertimeout = 10000  (int)
+[03:09:49] connseedtime = 300000  (int)
+[03:09:49] minconnectiontime = 0  (int)
+[03:09:49] 
+[03:09:49] Server Plugins
+[03:09:49] --------------
+[03:09:49]  Loading plugin: mysql_static.so
+[03:09:49]   Failed (plugins/mysql_static.so: cannot open shared object file: No such file or directory)
+[03:09:49]  Loading plugin: sscanf.so
+[03:09:49]   Failed (plugins/sscanf.so: cannot open shared object file: No such file or directory)
+[03:09:49]  Loading plugin: streamer.so
+[03:09:49]   Failed (plugins/streamer.so: cannot open shared object file: No such file or directory)
+[03:09:49]  Loaded 0 plugins.
+
+[03:09:49] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:09:49] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:15:50] filterscripts = ""  (string)
+[03:15:50] plugins = ""  (string)
+[03:15:50] logtimeformat = "[%H:%M:%S]"  (string)
+[03:15:50] ackslimit = 3000  (int)
+[03:15:50] messageholelimit = 3000  (int)
+[03:15:50] playertimeout = 10000  (int)
+[03:15:50] connseedtime = 300000  (int)
+[03:15:50] minconnectiontime = 0  (int)
+[03:15:50] 
+[03:15:50] Server Plugins
+[03:15:50] --------------
+[03:15:50]  Loaded 0 plugins.
+
+[03:15:50] 
+[03:15:50] Filterscripts
+[03:15:50] ---------------
+[03:15:50]   Loaded 0 filterscripts.
+
+[03:15:50] Loaded 3 vehicles from: vehicles/trains.txt
+[03:15:50] Loaded 3 vehicles from: vehicles/pilots.txt
+[03:15:50] Loaded 15 vehicles from: vehicles/lv_law.txt
+[03:15:50] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[03:15:50] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[03:15:50] Loaded 38 vehicles from: vehicles/sf_law.txt
+[03:15:50] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[03:15:50] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[03:15:50] Loaded 24 vehicles from: vehicles/ls_law.txt
+[03:15:50] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[03:15:50] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[03:15:50] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[03:15:50] Loaded 71 vehicles from: vehicles/whetstone.txt
+[03:15:50] Loaded 168 vehicles from: vehicles/bone.txt
+[03:15:50] Loaded 61 vehicles from: vehicles/flint.txt
+[03:15:50] Loaded 96 vehicles from: vehicles/tierra.txt
+[03:15:50] Loaded 96 vehicles from: vehicles/red_county.txt
+[03:15:50] Total vehicles from files: 1781
+[03:15:50] 
+---------------------------------------
+[03:15:50] Running Grand Larceny - by the SA-MP team
+
+[03:15:50] ---------------------------------------
+
+[03:15:50] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:22:24] filterscripts = ""  (string)
+[03:22:24] plugins = ""  (string)
+[03:22:24] logtimeformat = "[%H:%M:%S]"  (string)
+[03:22:24] ackslimit = 3000  (int)
+[03:22:24] messageholelimit = 3000  (int)
+[03:22:24] playertimeout = 10000  (int)
+[03:22:24] connseedtime = 300000  (int)
+[03:22:24] minconnectiontime = 0  (int)
+[03:22:24] 
+[03:22:24] Server Plugins
+[03:22:24] --------------
+[03:22:24]  Loaded 0 plugins.
+
+[03:22:24] 
+[03:22:24] Filterscripts
+[03:22:24] ---------------
+[03:22:24]   Loaded 0 filterscripts.
+
+[03:22:24] Loaded 3 vehicles from: vehicles/trains.txt
+[03:22:24] Loaded 3 vehicles from: vehicles/pilots.txt
+[03:22:24] Loaded 15 vehicles from: vehicles/lv_law.txt
+[03:22:24] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[03:22:24] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[03:22:24] Loaded 38 vehicles from: vehicles/sf_law.txt
+[03:22:24] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[03:22:24] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[03:22:24] Loaded 24 vehicles from: vehicles/ls_law.txt
+[03:22:24] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[03:22:24] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[03:22:24] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[03:22:24] Loaded 71 vehicles from: vehicles/whetstone.txt
+[03:22:24] Loaded 168 vehicles from: vehicles/bone.txt
+[03:22:24] Loaded 61 vehicles from: vehicles/flint.txt
+[03:22:24] Loaded 96 vehicles from: vehicles/tierra.txt
+[03:22:24] Loaded 96 vehicles from: vehicles/red_county.txt
+[03:22:24] Total vehicles from files: 1781
+[03:22:24] 
+---------------------------------------
+[03:22:24] Running Grand Larceny - by the SA-MP team
+
+[03:22:24] ---------------------------------------
+
+[03:22:24] Number of vehicle models: 173
+[03:22:56] [connection] incoming connection: 62.66.141.96:60844 id: 0
+[03:22:56] [join] Kurama has joined the server (0:62.66.141.96)
+[03:23:30] [part] Kurama has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:23:40] filterscripts = ""  (string)
+[03:23:40] plugins = ""  (string)
+[03:23:40] logtimeformat = "[%H:%M:%S]"  (string)
+[03:23:40] ackslimit = 3000  (int)
+[03:23:40] messageholelimit = 3000  (int)
+[03:23:40] playertimeout = 10000  (int)
+[03:23:40] connseedtime = 300000  (int)
+[03:23:40] minconnectiontime = 0  (int)
+[03:23:40] 
+[03:23:40] Server Plugins
+[03:23:40] --------------
+[03:23:40]  Loaded 0 plugins.
+
+[03:23:40] 
+[03:23:40] Filterscripts
+[03:23:40] ---------------
+[03:23:40]   Loaded 0 filterscripts.
+
+[03:23:40] Loaded 3 vehicles from: vehicles/trains.txt
+[03:23:40] Loaded 3 vehicles from: vehicles/pilots.txt
+[03:23:40] Loaded 15 vehicles from: vehicles/lv_law.txt
+[03:23:40] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[03:23:40] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[03:23:40] Loaded 38 vehicles from: vehicles/sf_law.txt
+[03:23:40] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[03:23:40] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[03:23:40] Loaded 24 vehicles from: vehicles/ls_law.txt
+[03:23:40] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[03:23:40] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[03:23:40] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[03:23:40] Loaded 71 vehicles from: vehicles/whetstone.txt
+[03:23:40] Loaded 168 vehicles from: vehicles/bone.txt
+[03:23:40] Loaded 61 vehicles from: vehicles/flint.txt
+[03:23:40] Loaded 96 vehicles from: vehicles/tierra.txt
+[03:23:40] Loaded 96 vehicles from: vehicles/red_county.txt
+[03:23:40] Total vehicles from files: 1781
+[03:23:40] 
+---------------------------------------
+[03:23:40] Running Grand Larceny - by the SA-MP team
+
+[03:23:40] ---------------------------------------
+
+[03:23:40] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:33:29] filterscripts = ""  (string)
+[03:33:29] plugins = ""  (string)
+[03:33:29] logtimeformat = "[%H:%M:%S]"  (string)
+[03:33:29] ackslimit = 3000  (int)
+[03:33:29] messageholelimit = 3000  (int)
+[03:33:29] playertimeout = 10000  (int)
+[03:33:29] connseedtime = 300000  (int)
+[03:33:29] minconnectiontime = 0  (int)
+[03:33:29] 
+[03:33:29] Server Plugins
+[03:33:29] --------------
+[03:33:29]  Loaded 0 plugins.
+
+[03:33:29] 
+[03:33:29] Filterscripts
+[03:33:29] ---------------
+[03:33:29]   Loaded 0 filterscripts.
+
+[03:33:29] Loaded 3 vehicles from: vehicles/trains.txt
+[03:33:29] Loaded 3 vehicles from: vehicles/pilots.txt
+[03:33:29] Loaded 15 vehicles from: vehicles/lv_law.txt
+[03:33:29] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[03:33:29] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[03:33:29] Loaded 38 vehicles from: vehicles/sf_law.txt
+[03:33:29] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[03:33:29] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[03:33:29] Loaded 24 vehicles from: vehicles/ls_law.txt
+[03:33:29] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[03:33:29] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[03:33:29] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[03:33:29] Loaded 71 vehicles from: vehicles/whetstone.txt
+[03:33:29] Loaded 168 vehicles from: vehicles/bone.txt
+[03:33:29] Loaded 61 vehicles from: vehicles/flint.txt
+[03:33:29] Loaded 96 vehicles from: vehicles/tierra.txt
+[03:33:29] Loaded 96 vehicles from: vehicles/red_county.txt
+[03:33:29] Total vehicles from files: 1781
+[03:33:29] 
+---------------------------------------
+[03:33:29] Running Grand Larceny - by the SA-MP team
+
+[03:33:29] ---------------------------------------
+
+[03:33:29] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:36:30] filterscripts = ""  (string)
+[03:36:30] logtimeformat = "[%H:%M:%S]"  (string)
+[03:36:30] ackslimit = 3000  (int)
+[03:36:30] messageholelimit = 3000  (int)
+[03:36:30] playertimeout = 10000  (int)
+[03:36:30] connseedtime = 300000  (int)
+[03:36:30] minconnectiontime = 0  (int)
+[03:36:30] 
+[03:36:30] Server Plugins
+[03:36:30] --------------
+[03:36:30]  Loading plugin: mysql_static.so
+[03:36:30]  >> plugin.mysql: R39 successfully loaded.
+[03:36:30]   Loaded.
+[03:36:30]  Loading plugin: sscanf.so
+[03:36:30] 
+
+[03:36:30]  ===============================
+
+[03:36:30]       sscanf plugin loaded.     
+
+[03:36:30]          Version:  2.8.3        
+
+[03:36:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:36:30]  ===============================
+
+[03:36:30]   Loaded.
+[03:36:30]  Loading plugin: streamer.so
+[03:36:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:36:30]   Loaded.
+[03:36:30]  Loaded 3 plugins.
+
+[03:36:31] 
+[03:36:31] Filterscripts
+[03:36:31] ---------------
+[03:36:31]   Loaded 0 filterscripts.
+
+[03:36:31] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[03:36:31] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[03:36:31] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[03:36:31] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[03:36:31] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[03:36:31] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[03:36:31] It stabilizes the connection to the database ...
+[03:36:31] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[03:36:31] Number of vehicle models: 0
+[03:36:31] LoadFactionsThread() - called (11 factions loaded).
+[03:36:31] LoadVehiclesThread() - called (297 vehicles loaded.
+[03:36:31] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[03:36:31] LoadHousesThread() - called (50 houses loaded).
+[03:36:31] LoadBizThread() - called (28 business loaded).
+[03:36:31] LoadSkinsThread() - called (312 skins loaded).
+[03:36:31] InitTurfRivalWars() - called (33 turfs loaded).
+[03:36:31] InitSpawnZone() - called (12 zones loaded).
+[03:36:31] LoadSafesThread() - called (10 safes loaded).
+[03:36:31] LoadJobsThread() - called (7 jobs loaded).
+[03:36:31] LoadDealerShipThread() - called (86 vehicles loaded).
+[03:36:31] InitPrArmThread - called (7 prices).
+[03:36:31] InitPrBurgerThread - called (5 prices).
+[03:36:31] InitPrItemsThread - called (10 prices loaded).
+[09:34:25] [connection] incoming connection: 82.79.81.33:57270 id: 0
+[09:34:26] [join] BaDbOy7 has joined the server (0:82.79.81.33)
+[09:34:45] [chat] [BaDbOy7]: 1
+[10:00:52] [part] BaDbOy7 has left the server (0:0)
+[10:03:24] [connection] incoming connection: 82.79.81.33:57888 id: 0
+[11:47:29] [connection] incoming connection: 84.232.142.150:56334 id: 0
+[11:47:30] [join] porTobV has joined the server (0:84.232.142.150)
+[11:58:12] [connection] incoming connection: 62.66.141.96:55169 id: 1
+[11:58:12] [join] Kurama has joined the server (1:62.66.141.96)
+[11:59:16] [part] Kurama has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:10:44] filterscripts = ""  (string)
+[12:10:44] sleep = 5  (int)
+[12:10:44] logtimeformat = "[%H:%M:%S]"  (string)
+[12:10:44] ackslimit = 3000  (int)
+[12:10:44] messageholelimit = 3000  (int)
+[12:10:44] playertimeout = 10000  (int)
+[12:10:44] connseedtime = 300000  (int)
+[12:10:44] minconnectiontime = 0  (int)
+[12:10:44] 
+[12:10:44] Server Plugins
+[12:10:44] --------------
+[12:10:44]  Loading plugin: mysql_static.so
+[12:10:44]  >> plugin.mysql: R39 successfully loaded.
+[12:10:44]   Loaded.
+[12:10:44]  Loading plugin: sscanf.so
+[12:10:44] 
+
+[12:10:44]  ===============================
+
+[12:10:44]       sscanf plugin loaded.     
+
+[12:10:44]          Version:  2.8.3        
+
+[12:10:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:10:44]  ===============================
+
+[12:10:44]   Loaded.
+[12:10:44]  Loading plugin: streamer.so
+[12:10:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:10:44]   Loaded.
+[12:10:44]  Loaded 3 plugins.
+
+[12:10:44] 
+[12:10:44] Filterscripts
+[12:10:44] ---------------
+[12:10:44]   Loaded 0 filterscripts.
+
+[12:10:44] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[12:10:44] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[12:10:44] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[12:10:44] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[12:10:44] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[12:10:44] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[12:10:44] It stabilizes the connection to the database ...
+[12:10:44] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[12:10:44] Number of vehicle models: 0
+[12:10:44] LoadFactionsThread() - called (11 factions loaded).
+[12:10:44] LoadVehiclesThread() - called (297 vehicles loaded.
+[12:10:44] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[12:10:44] LoadHousesThread() - called (50 houses loaded).
+[12:10:44] LoadBizThread() - called (28 business loaded).
+[12:10:44] LoadSkinsThread() - called (312 skins loaded).
+[12:10:44] InitTurfRivalWars() - called (33 turfs loaded).
+[12:10:44] InitSpawnZone() - called (12 zones loaded).
+[12:10:44] LoadSafesThread() - called (10 safes loaded).
+[12:10:44] LoadJobsThread() - called (7 jobs loaded).
+[12:10:44] LoadDealerShipThread() - called (86 vehicles loaded).
+[12:10:44] InitPrArmThread - called (7 prices).
+[12:10:44] InitPrBurgerThread - called (5 prices).
+[12:10:44] InitPrItemsThread - called (10 prices loaded).
+[12:28:15] [connection] incoming connection: 84.232.142.150:53463 id: 0
+[12:28:25] [connection] incoming connection: 84.232.142.150:50299 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:29:34] filterscripts = ""  (string)
+[12:29:34] sleep = 5  (int)
+[12:29:34] logtimeformat = "[%H:%M:%S]"  (string)
+[12:29:34] ackslimit = 3000  (int)
+[12:29:34] messageholelimit = 3000  (int)
+[12:29:34] playertimeout = 10000  (int)
+[12:29:34] connseedtime = 300000  (int)
+[12:29:34] minconnectiontime = 0  (int)
+[12:29:34] 
+[12:29:34] Server Plugins
+[12:29:34] --------------
+[12:29:34]  Loading plugin: mysql_static.so
+[12:29:34]  >> plugin.mysql: R39 successfully loaded.
+[12:29:34]   Loaded.
+[12:29:34]  Loading plugin: sscanf.so
+[12:29:34] 
+
+[12:29:34]  ===============================
+
+[12:29:34]       sscanf plugin loaded.     
+
+[12:29:34]          Version:  2.8.3        
+
+[12:29:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:29:34]  ===============================
+
+[12:29:34]   Loaded.
+[12:29:34]  Loading plugin: streamer.so
+[12:29:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:29:34]   Loaded.
+[12:29:34]  Loaded 3 plugins.
+
+[12:29:34] 
+[12:29:34] Filterscripts
+[12:29:34] ---------------
+[12:29:34]   Loaded 0 filterscripts.
+
+[12:29:34] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[12:29:34] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[12:29:34] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[12:29:34] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[12:29:34] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[12:29:34] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[12:29:34] It stabilizes the connection to the database ...
+[12:29:34] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[12:29:34] Number of vehicle models: 0
+[12:29:34] LoadFactionsThread() - called (11 factions loaded).
+[12:29:34] LoadVehiclesThread() - called (297 vehicles loaded.
+[12:29:34] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[12:29:34] LoadHousesThread() - called (50 houses loaded).
+[12:29:34] LoadBizThread() - called (28 business loaded).
+[12:29:34] LoadSkinsThread() - called (312 skins loaded).
+[12:29:34] InitTurfRivalWars() - called (33 turfs loaded).
+[12:29:34] InitSpawnZone() - called (12 zones loaded).
+[12:29:34] LoadSafesThread() - called (10 safes loaded).
+[12:29:34] LoadJobsThread() - called (7 jobs loaded).
+[12:29:34] LoadDealerShipThread() - called (86 vehicles loaded).
+[12:29:34] InitPrArmThread - called (7 prices).
+[12:29:34] InitPrBurgerThread - called (5 prices).
+[12:29:34] InitPrItemsThread - called (10 prices loaded).
+[12:30:05] [connection] incoming connection: 62.66.141.96:50183 id: 0
+[12:30:11] [connection] incoming connection: 62.66.141.96:50188 id: 1
+[12:30:11] [join] Kurama has joined the server (1:62.66.141.96)
+[12:32:56] [part] Kurama has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:33:04] filterscripts = ""  (string)
+[12:33:04] sleep = 5  (int)
+[12:33:04] logtimeformat = "[%H:%M:%S]"  (string)
+[12:33:04] ackslimit = 3000  (int)
+[12:33:04] messageholelimit = 3000  (int)
+[12:33:04] playertimeout = 10000  (int)
+[12:33:04] connseedtime = 300000  (int)
+[12:33:04] minconnectiontime = 0  (int)
+[12:33:04] 
+[12:33:04] Server Plugins
+[12:33:04] --------------
+[12:33:04]  Loading plugin: mysql_static.so
+[12:33:04]  >> plugin.mysql: R39 successfully loaded.
+[12:33:04]   Loaded.
+[12:33:04]  Loading plugin: sscanf.so
+[12:33:04] 
+
+[12:33:04]  ===============================
+
+[12:33:04]       sscanf plugin loaded.     
+
+[12:33:04]          Version:  2.8.3        
+
+[12:33:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:33:04]  ===============================
+
+[12:33:04]   Loaded.
+[12:33:04]  Loading plugin: streamer.so
+[12:33:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:33:04]   Loaded.
+[12:33:04]  Loaded 3 plugins.
+
+[12:33:04] 
+[12:33:04] Filterscripts
+[12:33:04] ---------------
+[12:33:04]   Loaded 0 filterscripts.
+
+[12:33:04] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[12:33:04] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[12:33:04] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[12:33:04] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[12:33:04] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[12:33:04] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[12:33:04] It stabilizes the connection to the database ...
+[12:33:04] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[12:33:04] Number of vehicle models: 0
+[12:33:04] LoadFactionsThread() - called (11 factions loaded).
+[12:33:04] LoadVehiclesThread() - called (297 vehicles loaded.
+[12:33:04] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[12:33:04] LoadHousesThread() - called (50 houses loaded).
+[12:33:04] LoadBizThread() - called (28 business loaded).
+[12:33:04] LoadSkinsThread() - called (312 skins loaded).
+[12:33:04] InitTurfRivalWars() - called (33 turfs loaded).
+[12:33:04] InitSpawnZone() - called (12 zones loaded).
+[12:33:04] LoadSafesThread() - called (10 safes loaded).
+[12:33:04] LoadJobsThread() - called (7 jobs loaded).
+[12:33:04] LoadDealerShipThread() - called (86 vehicles loaded).
+[12:33:04] InitPrArmThread - called (7 prices).
+[12:33:04] InitPrBurgerThread - called (5 prices).
+[12:33:04] InitPrItemsThread - called (10 prices loaded).
+[13:38:44] [connection] incoming connection: 188.27.131.133:57531 id: 0
+[13:38:44] [join] Ursu93 has joined the server (0:188.27.131.133)
+[14:03:39] [part] Ursu93 has left the server (0:1)
+[14:03:51] [connection] incoming connection: 86.124.203.124:60811 id: 0
+[14:03:51] [join] iTA has joined the server (0:86.124.203.124)
+[14:04:09] [part] iTA has left the server (0:1)
+[14:49:51] [connection] incoming connection: 86.121.223.57:54609 id: 0
+[14:49:52] [join] JustDoIt has joined the server (0:86.121.223.57)
+[14:52:25] [death] JustDoIt died 255
+[14:57:50] [chat] [JustDoIt]: y
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:07:32] filterscripts = ""  (string)
+[15:07:32] sleep = 5  (int)
+[15:07:32] logtimeformat = "[%H:%M:%S]"  (string)
+[15:07:32] ackslimit = 3000  (int)
+[15:07:32] messageholelimit = 3000  (int)
+[15:07:32] playertimeout = 10000  (int)
+[15:07:32] connseedtime = 300000  (int)
+[15:07:32] minconnectiontime = 0  (int)
+[15:07:32] 
+[15:07:32] Server Plugins
+[15:07:32] --------------
+[15:07:32]  Loading plugin: mysql_static.so
+[15:07:32]  >> plugin.mysql: R39 successfully loaded.
+[15:07:32]   Loaded.
+[15:07:32]  Loading plugin: sscanf.so
+[15:07:32] 
+
+[15:07:32]  ===============================
+
+[15:07:32]       sscanf plugin loaded.     
+
+[15:07:32]          Version:  2.8.3        
+
+[15:07:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:07:32]  ===============================
+
+[15:07:32]   Loaded.
+[15:07:32]  Loading plugin: streamer.so
+[15:07:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:07:32]   Loaded.
+[15:07:32]  Loaded 3 plugins.
+
+[15:07:33] 
+[15:07:33] Filterscripts
+[15:07:33] ---------------
+[15:07:33]   Loaded 0 filterscripts.
+
+[15:07:33] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[15:07:33] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[15:07:33] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[15:07:33] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[15:07:33] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[15:07:33] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[15:07:33] It stabilizes the connection to the database ...
+[15:07:33] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[15:07:33] Number of vehicle models: 0
+[15:07:33] LoadFactionsThread() - called (11 factions loaded).
+[15:07:33] LoadVehiclesThread() - called (297 vehicles loaded.
+[15:07:33] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[15:07:33] LoadHousesThread() - called (50 houses loaded).
+[15:07:33] LoadBizThread() - called (29 business loaded).
+[15:07:33] LoadSkinsThread() - called (312 skins loaded).
+[15:07:33] InitTurfRivalWars() - called (33 turfs loaded).
+[15:07:33] InitSpawnZone() - called (12 zones loaded).
+[15:07:33] LoadSafesThread() - called (10 safes loaded).
+[15:07:33] LoadJobsThread() - called (7 jobs loaded).
+[15:07:33] LoadDealerShipThread() - called (86 vehicles loaded).
+[15:07:33] InitPrArmThread - called (7 prices).
+[15:07:33] InitPrBurgerThread - called (5 prices).
+[15:07:33] InitPrItemsThread - called (10 prices loaded).
+[15:07:46] [connection] incoming connection: 81.18.64.75:50791 id: 0
+[15:07:46] [join] Scarfac3 has joined the server (0:81.18.64.75)
+[15:07:47] [connection] incoming connection: 86.121.223.57:52335 id: 1
+[15:07:47] [join] JustDoIt has joined the server (1:86.121.223.57)
+[15:07:58] [connection] incoming connection: 62.66.141.96:65505 id: 2
+[15:07:59] [join] Kurama has joined the server (2:62.66.141.96)
+[15:08:07] [death] Kurama died 255
+[15:09:20] [chat] [Scarfac3]: gettoclrateserver
+[15:11:19] [connection] incoming connection: 188.27.131.133:56073 id: 3
+[15:11:22] [join] Ursu93 has joined the server (3:188.27.131.133)
+[15:11:43] [chat] [Kurama]: vorbeste cu jestyck
+[15:11:48] [death] Scarfac3 died 54
+[15:12:07] [chat] [JustDoIt]: urs
+[15:12:11] [chat] [JustDoIt]:  /tazer
+[15:12:13] [chat] [JustDoIt]: sa bagati
+[15:12:15] [death] Scarfac3 died 54
+[15:12:22] [chat] [Ursu93]: daca dai baston ia tazer
+[15:12:42] [chat] [Ursu93]: intre copi nu merge
+[15:12:45] [chat] [JustDoIt]: a
+[15:13:03] [chat] [JustDoIt]:  /swat on e scos?
+[15:13:18] [chat] [Ursu93]: cred ca da
+[15:16:37] [part] JustDoIt has left the server (1:1)
+[15:18:02] [death] Kurama died 54
+[15:18:22] [chat] [Kurama]: de c-ai zis mai devreme?
+[15:18:42] [chat] [Kurama]: ma duc sa-l iau?
+[15:18:44] [chat] [Ursu93]: da
+[15:19:41] [chat] [Ursu93]: dai buymats
+[15:19:55] [chat] [Kurama]: hm...
+[15:20:02] [chat] [Kurama]: in gm nu e trecut asa textul asta
+[15:20:11] [chat] [Kurama]: e scris corect
+[15:20:48] [chat] [Kurama]: o sa incerc sa compilez gm-ul cu pawno
+[15:20:55] [chat] [Kurama]: ca sa nu mai dea eroari.
+[15:21:15] [chat] [Ursu93]: nu stiu, si aici si la fish la fel apar alea
+[15:21:15] [chat] [Kurama]: notepad ++ sau sublime text 3 de obicei mai rescriu niste simboluri
+[15:21:24] [chat] [Ursu93]: aaaa da da
+[15:21:40] [chat] [Kurama]: o sa compilez cu pawno sa fie in regula
+[15:21:54] [chat] [Kurama]: mie nu-mi pare sa mearga greu
+[15:22:06] [chat] [Kurama]: mi se misca chiar bine
+[15:22:14] [chat] [Ursu93]: acuma da
+[15:22:41] [chat] [Ursu93]: trebuie vazut daca suntem mai multi si nu dam rr jumate de zi
+[15:22:46] [chat] [Ursu93]: daca merge bine e ok
+[15:22:55] [chat] [Kurama]: nu ii mai dau restart, nu?
+[15:23:06] [chat] [Kurama]: pana diseara adica
+[15:23:17] [chat] [Ursu93]: bine, acuma daca ai modificari fa-le
+[15:23:27] [chat] [Kurama]: pai le-am psu acum
+[15:23:38] [chat] [Kurama]: plus ca tre sa ma pregatesc sa plec la munca si nu mai am timp
+[15:23:40] [chat] [Ursu93]: sa terminam gm-ul si sitemele sa fie totul ok si dupaia 2  zile stam doar sa vedem daca merge ok
+[15:23:51] [chat] [Ursu93]: bun, atunci lasa-l asa :D
+[15:24:04] [chat] [Kurama]: o sa termin diseara rw-ul ca aseara am avut niste probleme
+[15:24:10] [chat] [Kurama]: ma ocupa in seara asta
+[15:24:15] [chat] [Kurama]: ca de acum pot sa lucrez linistit
+[15:24:23] [chat] [Kurama]: am revenit la programul meu initial
+[15:24:29] [chat] [Kurama]: si am timp destul
+[15:24:31] [chat] [Kurama]: liber
+[15:25:24] [chat] [Ursu93]: perfect :D
+[15:25:41] [chat] [Kurama]: ok, am plecat, bafta!
+[15:25:45] [chat] [Ursu93]: ok, salut
+[15:25:50] [chat] [Kurama]: ok, am plecat, bafta!gettickrate
+[15:25:58] [chat] [Kurama]: tshit :(
+[15:27:19] [part] Kurama has left the server (2:1)
+[15:31:55] [connection] incoming connection: 84.117.50.247:63566 id: 1
+[15:31:56] [join] STX has joined the server (1:84.117.50.247)
+[15:32:24] [death] STX died 255
+[15:32:37] [part] STX has left the server (1:0)
+[15:32:48] [connection] incoming connection: 84.117.50.247:60638 id: 1
+[15:32:48] [join] STX has joined the server (1:84.117.50.247)
+[15:32:56] [death] STX died 255
+[15:33:09] [part] STX has left the server (1:0)
+[15:33:21] [connection] incoming connection: 84.117.50.247:64889 id: 1
+[15:33:21] [join] STX has joined the server (1:84.117.50.247)
+[15:33:30] [death] STX died 255
+[15:36:20] [part] Ursu93 has left the server (3:1)
+[15:38:26] [chat] [STX]: Ce parere ai despre server-ul asta ?
+[15:38:30] [chat] [Scarfac3]:  e nasp rau
+[15:38:37] [chat] [STX]: Mie mi se pare ca era mult mai ok vechiul GM
+[15:38:43] [chat] [STX]: Acum numai e ceva unic ..
+[15:38:53] [chat] [Scarfac3]: opreste in pula mea
+[15:38:59] [chat] [Scarfac3]: semnalele luminoase
+[15:39:08] [chat] [Scarfac3]: esti singur pe strada
+[15:39:10] [chat] [STX]: Bine in pula ta 
+[15:39:10] [chat] [Scarfac3]: da coare
+[15:39:13] [chat] [Scarfac3]: era smecher
+[15:39:19] [chat] [Scarfac3]: dar sunt boschetari astia
+[15:39:24] [chat] [STX]: :))
+[15:39:26] [chat] [Scarfac3]: eu il inteleg si pe kurama
+[15:39:28] [chat] [Scarfac3]: dar el singur
+[15:39:34] [chat] [Scarfac3]: nu poate
+[15:39:53] [chat] [STX]: Pai .. de ce nu i-a vechiul GM , implementeaza ceva misto si o sa fie ok
+[15:40:01] [chat] [Scarfac3]: nu poate
+[15:40:05] [chat] [Scarfac3]: cica ii ia prea mult sa traducact
+[15:40:07] [chat] [STX]: Daca ramane la GM asta , nu o sa aiba nici un succes
+[15:40:08] [chat] [Scarfac3]: ce a facut xanto
+[15:40:16] [chat] [STX]: :))
+[15:40:19] [chat] [Scarfac3]: asa a zis
+[15:40:30] [chat] [STX]: Ala a fost TOP . 
+[15:40:39] [chat] [STX]: Asa o sa jucam doar noi intre noi
+[15:40:40] [death] STX died 255
+[15:40:42] [chat] [STX]: prost
+[15:41:38] [death] Scarfac3 died 255
+[15:42:15] [part] STX has left the server (1:2)
+[15:45:37] [death] Scarfac3 died 255
+[15:45:40] [chat] [Scarfac3]: Q
+[15:45:42] [chat] [Scarfac3]: t/q
+[15:45:42] [part] Scarfac3 has left the server (0:1)
+[15:48:28] [connection] incoming connection: 109.96.53.22:49594 id: 0
+[15:48:28] [join] jok3rss0beit has joined the server (0:109.96.53.22)
+[15:49:44] [connection] incoming connection: 86.124.203.124:55216 id: 1
+[15:49:45] [join] iTA has joined the server (1:86.124.203.124)
+[15:51:17] [death] iTA died 255
+[15:51:28] [part] iTA has left the server (1:1)
+[16:14:07] [connection] incoming connection: 86.122.57.224:55262 id: 1
+[16:14:07] [join] AlEx01 has joined the server (1:86.122.57.224)
+[16:14:37] [death] AlEx01 died 255
+[16:50:28] [connection] incoming connection: 86.124.203.124:61198 id: 2
+[16:50:29] [join] iTA has joined the server (2:86.124.203.124)
+[16:50:39] [part] AlEx01 has left the server (1:0)
+[16:50:47] [connection] incoming connection: 86.122.57.224:51539 id: 1
+[16:50:51] [chat] [jok3rss0beit]: SAL CF
+[16:50:55] [chat] [iTA]: cf
+[16:50:57] [connection] incoming connection: 86.122.57.224:51540 id: 1
+[16:50:57] [join] AlEx01 has joined the server (1:86.122.57.224)
+[16:50:59] [chat] [jok3rss0beit]: bn curat strazi
+[16:51:00] [chat] [jok3rss0beit]: u cf
+[16:51:07] [chat] [iTA]: am iesit pe afr
+[16:51:12] [chat] [jok3rss0beit]: ai voie?
+[16:51:17] [chat] [iTA]: da
+[16:51:20] [chat] [jok3rss0beit]: dc
+[16:51:22] [chat] [iTA]: doar is politist
+[16:51:26] [chat] [jok3rss0beit]: ......
+[16:51:30] [chat] [iTA]: :))
+[16:51:39] [chat] [iTA]: am iesit prin fata
+[16:51:44] [chat] [jok3rss0beit]: aici la job-ul asta
+[16:51:48] [chat] [jok3rss0beit]: il poti face asa la infinit?
+[16:51:52] [chat] [jok3rss0beit]: ca nu tre sa dau iar startsweep
+[16:51:53] [chat] [iTA]: da
+[16:51:58] [chat] [iTA]: aparent
+[16:52:04] [chat] [iTA]: l-am facut si eu
+[16:52:04] [chat] [jok3rss0beit]: oricum
+[16:52:10] [chat] [jok3rss0beit]: iau 30$ pe checkpoint
+[16:52:14] [chat] [iTA]: stiu
+[16:52:16] [chat] [jok3rss0beit]: deci e ok :)))))
+[16:52:16] [chat] [iTA]: 4
+[16:52:19] [chat] [iTA]: fara 4
+[16:52:29] [chat] [jok3rss0beit]: abea urca dealu
+[16:52:30] [chat] [jok3rss0beit]: harbu asta
+[16:52:31] [chat] [iTA]: a intrat si moldova
+[16:52:37] [chat] [jok3rss0beit]: e afk
+[16:52:42] [chat] [iTA]: acum a intrat
+[16:52:46] [chat] [iTA]: ia
+[16:52:53] [chat] [iTA]: cf
+[16:53:06] [chat] [jok3rss0beit]: mainile sus
+[16:53:14] [chat] [iTA]: moldoveanu
+[16:53:25] [chat] [jok3rss0beit]: clownule acopera-ti buricu
+[16:53:55] [chat] [jok3rss0beit]: we cand se deschide srv ca vreau sa-mi cumpar palat si infernus
+[16:54:00] [chat] [jok3rss0beit]: ????????\
+[16:54:07] [chat] [iTA]: sapt viitoare
+[16:54:10] [chat] [iTA]: maxim peste 2
+[16:54:14] [chat] [jok3rss0beit]: sper sa bage gps pana atunci
+[16:54:17] [chat] [iTA]: depinde cand termina asta
+[16:54:18] [chat] [iTA]: baga
+[16:54:21] [chat] [iTA]: ca trebuie
+[16:54:29] [chat] [iTA]: is multe cacaturi de facut
+[16:54:31] [chat] [jok3rss0beit]: ma ce face grasu asta ma
+[16:54:35] [chat] [iTA]: nush
+[16:54:37] [chat] [iTA]: graseee
+[16:54:38] [chat] [iTA]: cf
+[16:54:40] [chat] [iTA]: cf
+[16:54:54] [chat] [jok3rss0beit]: lasa-l sus acolo
+[16:54:57] [chat] [jok3rss0beit]: cand revine sa vada unde e
+[16:54:58] [chat] [iTA]: a disparut
+[16:55:01] [chat] [jok3rss0beit]: e sus ba
+[16:55:07] [chat] [jok3rss0beit]: i-am dat freeze si slap
+[16:55:10] [chat] [iTA]: are freez
+[16:55:11] [chat] [iTA]: a
+[16:55:55] [chat] [iTA]: bag pl
+[16:56:00] [chat] [iTA]: ma duc sa joc table cu tata
+[16:56:03] [chat] [jok3rss0beit]: c=0
+[16:56:03] [chat] [iTA]: ca ma plict
+[16:56:04] [chat] [jok3rss0beit]: succes man
+[16:56:07] [chat] [jok3rss0beit]: io ma bag la lol
+[16:56:07] [chat] [iTA]: ms
+[16:56:21] [chat] [iTA]: ne auzim mai pe seara daca e
+[16:56:23] [chat] [jok3rss0beit]: sal
+[16:56:26] [chat] [iTA]: ceau
+[16:56:31] [part] iTA has left the server (2:1)
+[16:57:22] [part] jok3rss0beit has left the server (0:1)
+[17:19:22] [death] AlEx01 died 54
+[17:38:08] [part] AlEx01 has left the server (1:1)
+[19:07:09] [connection] incoming connection: 188.27.131.133:58592 id: 0
+[19:07:19] [connection] incoming connection: 188.27.131.133:58600 id: 0
+[19:07:32] [connection] incoming connection: 188.27.131.133:59285 id: 0
+[19:07:33] [join] Ursu93 has joined the server (0:188.27.131.133)
+[19:11:45] [connection] incoming connection: 86.124.203.124:55308 id: 1
+[19:11:45] [join] iTA has joined the server (1:86.124.203.124)
+[19:12:46] [connection] incoming connection: 86.122.57.224:64949 id: 2
+[19:12:46] [join] AlEx01 has joined the server (2:86.122.57.224)
+[19:13:18] [chat] [Ursu93]: salut
+[19:13:22] [chat] [AlEx01]: hei
+[19:13:46] [chat] [iTA]: sal la baeti
+[19:14:05] [chat] [Ursu93]: ma vezi pe minimap?
+[19:14:06] [chat] [AlEx01]: moama, inca mai joci ba ita? :))
+[19:14:09] [chat] [AlEx01]: nope
+[19:14:09] [chat] [iTA]: nu
+[19:14:15] [chat] [AlEx01]: pe nici unul
+[19:14:16] [chat] [iTA]: cn joaca bah
+[19:14:23] [chat] [Ursu93]: noi doi
+[19:14:54] [chat] [Ursu93]: iti palpaie chenarul ala?
+[19:14:56] [chat] [iTA]: s a adaugat ceva la rw?
+[19:15:02] [chat] [iTA]: da palpaie
+[19:15:09] [chat] [Ursu93]: repede? sau doar uneori?
+[19:15:17] [chat] [iTA]: din secunda in secunda
+[19:15:35] [chat] [Ursu93]: chiar la fiecare secunda?
+[19:15:37] [chat] [iTA]: e bine asa
+[19:15:38] [chat] [iTA]: da
+[19:15:42] [chat] [Ursu93]: e deranjat?
+[19:15:49] [chat] [iTA]: se face la rosu la fiecare secunda
+[19:15:52] [chat] [iTA]: e ok asa
+[19:15:55] [chat] [iTA]: zic eu
+[19:16:11] [chat] [iTA]: tu ce zici alecs zero unu
+[19:16:19] [chat] [AlEx01]: ce sa zic, mor de plictiseala in casa
+[19:16:27] [chat] [AlEx01]: si m-a luat nostalgia acu cateva zile
+[19:16:34] [chat] [AlEx01]: si am zis sa vad care mai e treaba pe eg
+[19:16:34] [chat] [iTA]: ca pe noi toti
+[19:16:41] [chat] [AlEx01]: si am vazut ca deschideti iar serverul
+[19:16:48] [chat] [AlEx01]: si mi-am adus aminte de copilarie :))
+[19:16:56] [chat] [Ursu93]: asa da :))
+[19:17:03] [chat] [iTA]: pai toti am avut copilaria aici
+[19:17:50] [chat] [iTA]: nu faci punct daca te misti pe terit?
+[19:17:51] [chat] [Ursu93]: hai sa lasam asa
+[19:17:54] [chat] [Ursu93]: inca nu
+[19:17:56] [chat] [Ursu93]: e bagat
+[19:17:57] [chat] [AlEx01]: care era comanda ca sa-mi maresc liniile de la chat?
+[19:17:58] [chat] [iTA]: a
+[19:18:01] [chat] [iTA]: tre rr
+[19:18:01] [chat] [AlEx01]: pana la 20?
+[19:18:15] [chat] [Ursu93]: rr pt?
+[19:18:34] [chat] [iTA]: sa se adauge ala?
+[19:18:37] [chat] [iTA]: cu punctul
+[19:18:48] [chat] [Ursu93]: nu stiu daca a facut-o, o s-o bage
+[19:18:53] [chat] [iTA]: se extinde 3 min?
+[19:19:00] [chat] [iTA]: si 6 min e rw nu?
+[19:19:02] [chat] [Ursu93]: da, desi eu ziceam 2
+[19:19:02] [chat] [Ursu93]: da
+[19:19:04] [chat] [Ursu93]: da
+[19:19:08] [chat] [iTA]: ar trebui 2
+[19:19:35] [chat] [AlEx01]: nu vezi teritoriile daca esti civil?
+[19:19:39] [chat] [iTA]:  /turfs
+[19:19:43] [kill] Ursu93 killed iTA Desert Eagle
+[19:20:51] [chat] [iTA]: a
+[19:20:56] [chat] [iTA]: baaa
+[19:21:00] [chat] [iTA]: mia luat teritoriu
+[19:21:05] [chat] [iTA]: mias banii la banca
+[19:22:29] [death] iTA died 54
+[19:22:37] [death] iTA died 54
+[19:23:38] [death] AlEx01 died 54
+[19:38:04] sscanf warning: String buffer overflow.
+[19:38:27] [connection] incoming connection: 84.232.142.150:53679 id: 3
+[19:38:27] [join] porTobV has joined the server (3:84.232.142.150)
+[19:39:12] [chat] [porTobV]: zi mane
+[19:39:14] [chat] [porTobV]: ce mai bagam
+[19:39:55] [chat] [Ursu93]: acuma suntem pe final
+[19:40:03] [chat] [porTobV]: aa inseamna ca e brici
+[19:40:04] [chat] [Ursu93]: am lucrat pt chestia cu lagul
+[19:40:13] [chat] [porTobV]: si e in regula?
+[19:40:21] [chat] [Ursu93]: tre sa deschidem tot felul de procese si sa vedem daca in timp se creeaza lag
+[19:40:34] [chat] [porTobV]: aa
+[19:40:36] [chat] [Ursu93]: gen sa facem joburi se cumparam chestii sa vindem si etc
+[19:40:49] [chat] [Ursu93]: ca astea ocupa memorie
+[19:40:54] [chat] [porTobV]: da da
+[19:40:58] [chat] [Ursu93]: si am lucrat sa eliberam memoria cand nu mai sunt active
+[19:41:05] [chat] [Ursu93]: dar sa vedem efectele acuma :D
+[19:42:43] sscanf warning: String buffer overflow.
+[19:45:43] [chat] [porTobV]: ba ce plm
+[19:45:48] [death] iTA died 54
+[19:45:50] [chat] [Ursu93]: ?
+[19:45:58] [chat] [porTobV]: iar s au schimbat idurile la masini
+[19:47:30] sscanf warning: String buffer overflow.
+[19:47:55] [chat] [AlEx01]: contracts
+[19:48:01] [chat] [AlEx01]: givehit
+[19:48:04] [chat] [AlEx01]: givehit 2
+[19:48:16] [chat] [AlEx01]: checkmycontracts
+[19:48:24] [chat] [AlEx01]: order
+[19:48:27] [chat] [AlEx01]: undercover
+[19:48:30] [chat] [AlEx01]: undercover on
+[19:48:37] [chat] [AlEx01]: order 7
+[19:49:09] [kill] AlEx01 killed iTA Desert Eagle
+[19:49:21] [kill] iTA killed AlEx01 Desert Eagle
+[19:49:50] [kill] iTA killed AlEx01 Desert Eagle
+[19:49:59] [chat] [iTA]: 5400
+[19:50:19] [kill] iTA killed AlEx01 Desert Eagle
+[19:50:28] [chat] [iTA]: 4800
+[19:52:01] [chat] [iTA]: hai incoa
+[19:54:33] [connection] incoming connection: 109.91.35.164:59601 id: 4
+[19:54:34] [join] BuhuhuDrace has joined the server (4:109.91.35.164)
+[19:54:46] [death] BuhuhuDrace died 255
+[19:54:48] [chat] [BuhuhuDrace]: -q
+[19:54:52] [chat] [BuhuhuDrace]: -q
+[19:54:59] [part] BuhuhuDrace has left the server (4:1)
+[19:55:38] [connection] incoming connection: 109.91.35.164:59634 id: 4
+[19:55:38] [join] BuhuhuDrace has joined the server (4:109.91.35.164)
+[19:55:47] [death] BuhuhuDrace died 255
+[19:56:17] sscanf warning: String buffer overflow.
+[19:56:40] [chat] [BuhuhuDrace]: Tot taran, tot taran ?
+[19:56:44] [chat] [Ursu93]: asta clar
+[19:56:59] [chat] [BuhuhuDrace]: mai du-te si tu cu bicicleta
+[19:57:07] [chat] [BuhuhuDrace]: ce testezi ?
+[19:57:31] [chat] [Ursu93]: fac chestii sa vad daca ramane memoria plina si apare lag
+[19:58:21] sscanf warning: String buffer overflow.
+[19:59:53] [death] Ursu93 died 255
+[20:00:04] [death] BuhuhuDrace died 255
+[20:01:13] [connection] incoming connection: 81.18.64.75:49667 id: 5
+[20:01:13] [join] Scarfac3 has joined the server (5:81.18.64.75)
+[20:01:58] [chat] [Ursu93]: alo da
+[20:02:00] [chat] [BuhuhuDrace]: Pune niste contracte
+[20:02:12] [chat] [BuhuhuDrace]: Ma auzi ?
+[20:02:43] [chat] [Ursu93]: aloo
+[20:02:50] [chat] [BuhuhuDrace]: auzi
+[20:02:55] [chat] [BuhuhuDrace]: callu ?
+[20:02:56] [chat] [BuhuhuDrace]: merge ?
+[20:02:57] [chat] [Ursu93]: nu mere call?
+[20:02:59] [chat] [Ursu93]: nu cred
+[20:03:27] [chat] [Ursu93]: alo da
+[20:03:27] [chat] [BuhuhuDrace]: Ma auzi ?
+[20:03:31] [chat] [BuhuhuDrace]: =)))
+[20:04:20] [part] porTobV has left the server (3:1)
+[20:04:25] [part] Scarfac3 has left the server (5:1)
+[20:04:41] [chat] [BuhuhuDrace]: contracts
+[20:04:47] [chat] [BuhuhuDrace]: givehit
+[20:04:49] [chat] [BuhuhuDrace]: givehit buhu
+[20:05:05] [chat] [BuhuhuDrace]: order
+[20:05:07] [chat] [BuhuhuDrace]: order 7
+[20:05:15] [chat] [BuhuhuDrace]: logout
+[20:05:36] [kill] BuhuhuDrace killed Ursu93 Desert Eagle
+[20:05:59] [chat] [Ursu93]: cum nu?
+[20:06:16] [chat] [BuhuhuDrace]: daca eu vreau sa pun contracte
+[20:06:21] [chat] [BuhuhuDrace]: cica nu pot pentru ca nu sunt hitman
+[20:06:24] [chat] [BuhuhuDrace]: poate ii eroare de text
+[20:07:35] [chat] [BuhuhuDrace]: contracts
+[20:07:43] [chat] [BuhuhuDrace]: myhit
+[20:07:54] [chat] [BuhuhuDrace]: checkmycontracts
+[20:08:00] [chat] [BuhuhuDrace]: Si comanda /find ?
+[20:08:02] [chat] [BuhuhuDrace]: logout
+[20:08:02] [death] Ursu93 died 54
+[20:08:04] [chat] [BuhuhuDrace]: Si comanda /find ?
+[20:08:14] [chat] [BuhuhuDrace]: Si comanda /find ? 
+[20:08:21] [chat] [BuhuhuDrace]: Cum il gasesc eu ca hitman ?
+[20:08:27] [chat] [Ursu93]: nu e, o sa fie la hitmani si cops
+[20:08:49] [chat] [BuhuhuDrace]: givehit
+[20:08:52] [chat] [BuhuhuDrace]: ranks
+[20:08:55] [chat] [BuhuhuDrace]: myhit
+[20:09:16] [chat] [BuhuhuDrace]: undercover
+[20:09:19] [chat] [BuhuhuDrace]: undercover on
+[20:09:23] [chat] [Ursu93]: nu ai telefon de aia nu merge call si sms
+[20:09:25] [chat] [Ursu93]: ia unu
+[20:09:26] [chat] [BuhuhuDrace]: logout
+[20:09:34] [chat] [BuhuhuDrace]: si de ce merge sa te sun ?
+[20:10:09] [chat] [BuhuhuDrace]: Ursu
+[20:10:12] [chat] [BuhuhuDrace]: Am telefon
+[20:10:18] [chat] [BuhuhuDrace]: de ce merge sa te sun ?
+[20:10:33] [chat] [BuhuhuDrace]: Si cand incerc sa cumpar telefon, chiar daca am, imi spune ca am deja phone book
+[20:10:38] [chat] [BuhuhuDrace]: dar eu incerc sa cumpar telefon nu phone book
+[20:10:47] [chat] [BuhuhuDrace]: ia uita-te
+[20:10:48] [chat] [AlEx01]: hai sa facem duele
+[20:10:50] [chat] [AlEx01]: logout
+[20:10:52] [chat] [AlEx01]: hai sa facem duele
+[20:11:07] [chat] [iTA]: hai
+[20:11:09] [chat] [BuhuhuDrace]: Vezi
+[20:11:11] [chat] [BuhuhuDrace]: pula
+[20:11:33] [chat] [BuhuhuDrace]: Mi-ai dat gethere din biz
+[20:11:38] [chat] [BuhuhuDrace]: si acuma imi apare checkpoint in desert
+[20:11:45] [chat] [Ursu93]: nu eram in biz eram aici
+[20:11:51] [chat] [BuhuhuDrace]: Eu eram in biz
+[20:11:56] [chat] [AlEx01]: stai asa
+[20:12:12] [chat] [BuhuhuDrace]: mie nu imi merge /sms
+[20:12:15] [chat] [BuhuhuDrace]: cica am nevoie de un telefon
+[20:12:17] [chat] [BuhuhuDrace]: dar am telefon
+[20:12:46] [chat] [AlEx01]: mama, am tinta default :))
+[20:12:49] [chat] [AlEx01]: 2
+[20:12:51] [chat] [AlEx01]: 1
+[20:12:52] [chat] [Ursu93]: nu ai telefon
+[20:12:53] [chat] [AlEx01]: go
+[20:12:56] [chat] [BuhuhuDrace]: ...
+[20:12:57] [chat] [iTA]: katalin talent va ureaza jos ranga stop violenta
+[20:12:58] [chat] [BuhuhuDrace]: si cum te sun ?
+[20:12:58] [chat] [iTA]: nici eu
+[20:13:01] [chat] [iTA]: hai
+[20:13:02] [chat] [AlEx01]: hai
+[20:13:05] [chat] [Ursu93]: e bug la ala
+[20:13:09] [chat] [Ursu93]: dar tu nu ai telefon
+[20:13:12] [chat] [Ursu93]: il scrii tu?
+[20:13:15] [kill] AlEx01 killed iTA Desert Eagle
+[20:13:23] [chat] [AlEx01]: din 3 gloante mureai si inainte?
+[20:13:25] [chat] [AlEx01]: nu din 2?
+[20:13:26] [chat] [iTA]: da
+[20:13:26] [chat] [BuhuhuDrace]: Incearca sa cumperi telefon
+[20:13:28] [chat] [BuhuhuDrace]: vezi ce zice
+[20:13:28] [chat] [iTA]: 3
+[20:13:29] [chat] [AlEx01]: hmm
+[20:13:38] [chat] [BuhuhuDrace]: Nu pot intra ca am checkpoint ...
+[20:13:38] [chat] [Ursu93]: da 
+[20:13:44] [chat] [Ursu93]: deci
+[20:13:50] [kill] AlEx01 killed iTA Desert Eagle
+[20:13:55] [chat] [Ursu93]: daca vrei sa cumperi telefon zice ca ai deja phonebook
+[20:14:03] [chat] [Ursu93]: asta e bugul
+[20:14:09] [kill] AlEx01 killed iTA Desert Eagle
+[20:14:13] [chat] [BuhuhuDrace]: Pai si cum il cumpar ? ca nu ma lasa sa-l cumpar
+[20:14:14] [chat] [Ursu93]: si daca iei prima data phonebook nu mai poti lua phone
+[20:14:18] [chat] [Ursu93]: asta e bug-ul
+[20:14:19] [chat] [Ursu93]: si
+[20:14:22] [chat] [BuhuhuDrace]: am inteles ..
+[20:14:26] [kill] iTA killed AlEx01 Desert Eagle
+[20:14:28] [chat] [Ursu93]: si ca poti suna daca nu ai telefon
+[20:14:34] [chat] [Ursu93]: sms nu poti da dar call merge
+[20:14:40] [chat] [BuhuhuDrace]: Si cand primesti /gethere iar eu sunt intr-un biz, imi da checkpoint in pula la dumnezo
+[20:14:49] [kill] AlEx01 killed iTA Desert Eagle
+[20:14:53] [chat] [Ursu93]: sal
+[20:14:54] [chat] [BuhuhuDrace]: ar trebui pus si /killcp
+[20:14:57] [chat] [iTA]: alo contactu sunt pronto
+[20:14:57] [chat] [Ursu93]: o sa fiet
+[20:15:04] [chat] [iTA]: alo contactu sunt pronto
+[20:15:06] [chat] [Ursu93]: dar gethere o sa fie rar pe server
+[20:15:13] [chat] [Ursu93]: fata de ce facem noi aici :))
+[20:15:19] [chat] [BuhuhuDrace]: Stiu, inteleg .. 
+[20:15:24] [chat] [Ursu93]: vezi ce scriu ?
+[20:15:40] [chat] [BuhuhuDrace]: Apropo
+[20:15:50] [chat] [BuhuhuDrace]: am dat /hangup dupa 2 minute cand te-am sunat pe tine
+[20:15:54] [chat] [BuhuhuDrace]: si mi-a luat 10 dolari pe apel
+[20:16:00] [chat] [Ursu93]: raportezi tu asta cu phonebook?
+[20:16:06] [chat] [BuhuhuDrace]: Da
+[20:16:36] [chat] [iTA]: cf
+[20:16:38] [chat] [Ursu93]: sal ita
+[20:16:50] [chat] [Ursu93]: sal
+[20:16:53] [death] iTA died 54
+[20:19:49] [death] BuhuhuDrace died 54
+[20:20:18] [chat] [BuhuhuDrace]: Ce tare ... si nedal
+[20:20:22] [chat] [Ursu93]: da bine...
+[20:20:25] [chat] [BuhuhuDrace]: Ati terminat gata ? Faceti ultimele verificari ?
+[20:20:27] [chat] [Ursu93]: ala numa vorbeste
+[20:20:28] [chat] [BuhuhuDrace]: Numa cand ii gata sa intre ..
+[20:20:40] [chat] [BuhuhuDrace]: am postat-o
+[20:20:45] [chat] [Ursu93]: raporteaza si ca nu merge sa vorbesti
+[20:20:49] [chat] [Ursu93]: suni apare
+[20:20:53] [chat] [Ursu93]: raspunde
+[20:20:55] [chat] [BuhuhuDrace]: chiar daca ai telefon ?
+[20:21:05] [chat] [Ursu93]: dar nu vezi ce vorbeste celalalt
+[20:21:05] [chat] [Ursu93]: da
+[20:21:07] [chat] [Ursu93]: da
+[20:21:12] [chat] [Ursu93]: sms merge
+[20:21:15] [chat] [Ursu93]: call nu
+[20:21:23] [death] AlEx01 died 255
+[20:21:55] [chat] [BuhuhuDrace]: done
+[20:23:34] [death] BuhuhuDrace died 255
+[20:23:52] [chat] [Ursu93]: tu ai lag?
+[20:23:55] [chat] [BuhuhuDrace]: Nu am
+[20:24:24] [connection] incoming connection: 84.117.50.247:65132 id: 3
+[20:24:24] [join] STX has joined the server (3:84.117.50.247)
+[20:24:56] [kill] BuhuhuDrace killed STX Minigun
+[20:24:58] [kill] BuhuhuDrace killed AlEx01 Minigun
+[20:25:03] [kill] BuhuhuDrace killed STX Minigun
+[20:25:04] [kill] BuhuhuDrace killed AlEx01 Minigun
+[20:25:08] [kill] BuhuhuDrace killed STX Minigun
+[20:25:10] [kill] BuhuhuDrace killed AlEx01 Minigun
+[20:25:13] [kill] BuhuhuDrace killed STX Minigun
+[20:25:13] sscanf warning: String buffer overflow.
+[20:25:15] [kill] BuhuhuDrace killed AlEx01 Minigun
+[20:25:19] [kill] BuhuhuDrace killed AlEx01 Minigun
+[20:25:24] [kill] BuhuhuDrace killed AlEx01 Minigun
+[20:25:34] [death] STX died 255
+[20:25:41] [kill] AlEx01 killed BuhuhuDrace Minigun
+[20:25:46] [death] AlEx01 died 255
+[20:26:00] [death] AlEx01 died 255
+[20:26:27] [death] AlEx01 died 255
+[20:26:28] [death] STX died 255
+[20:26:41] [death] STX died 255
+[20:26:52] [death] STX died 255
+[20:26:55] [death] AlEx01 died 255
+[20:27:00] [death] AlEx01 died 255
+[20:27:02] [kill] STX killed BuhuhuDrace Desert Eagle
+[20:27:03] [death] STX died 255
+[20:27:13] [death] STX died 255
+[20:27:33] [death] STX died 255
+[20:27:46] [death] STX died 255
+[20:27:51] [part] iTA has left the server (1:1)
+[20:27:53] [kill] BuhuhuDrace killed AlEx01 Desert Eagle
+[20:28:04] [kill] BuhuhuDrace killed STX Desert Eagle
+[20:28:18] [kill] STX killed BuhuhuDrace Desert Eagle
+[20:28:21] [kill] BuhuhuDrace killed STX 
+[20:28:34] [connection] incoming connection: 86.124.203.124:55212 id: 1
+[20:28:34] [join] iTA has joined the server (1:86.124.203.124)
+[20:28:37] [death] AlEx01 died 255
+[20:28:45] [death] STX died 255
+[20:29:00] [kill] BuhuhuDrace killed AlEx01 
+[20:29:00] [death] BuhuhuDrace died 255
+[20:29:05] [death] Ursu93 died 255
+[20:29:14] [death] BuhuhuDrace died 255
+[20:29:17] [death] Ursu93 died 255
+[20:29:21] [death] BuhuhuDrace died 255
+[20:29:23] [death] AlEx01 died 255
+[20:29:28] [death] BuhuhuDrace died 255
+[20:29:33] [death] BuhuhuDrace died 255
+[20:29:37] [death] Ursu93 died 255
+[20:29:48] [death] AlEx01 died 54
+[20:29:56] [death] BuhuhuDrace died 255
+[20:30:06] [death] BuhuhuDrace died 255
+[20:30:19] [chat] [STX]: ursu
+[20:30:19] [kill] BuhuhuDrace killed Ursu93 Desert Eagle
+[20:31:24] [death] BuhuhuDrace died 54
+[20:31:26] [part] BuhuhuDrace has left the server (4:1)
+[20:31:29] [death] AlEx01 died 54
+[20:32:54] [chat] [AlEx01]: a
+[20:33:27] [connection] incoming connection: 79.249.198.135:65261 id: 4
+[20:33:28] [join] Gaabriel has joined the server (4:79.249.198.135)
+[20:34:26] [death] iTA died 54
+[20:34:33] [death] AlEx01 died 54
+[20:34:41] [death] AlEx01 died 54
+[20:34:52] [death] AlEx01 died 54
+[20:35:10] [chat] [Gaabriel]: Ursule
+[20:35:46] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:35:48] [kill] Gaabriel killed STX Desert Eagle
+[20:35:52] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:35:58] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:36:05] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:36:11] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:36:17] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:36:23] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:36:28] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:36:35] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:37:05] [chat] [Gaabriel]: ?
+[20:37:17] [kill] iTA killed Gaabriel Desert Eagle
+[20:38:24] [kill] Gaabriel killed iTA Desert Eagle
+[20:39:05] [kill] Gaabriel killed AlEx01 Desert Eagle
+[20:39:21] [chat] [Gaabriel]: ii lag ma
+[20:39:33] [chat] [Gaabriel]: sau ai cod
+[20:39:36] [chat] [Gaabriel]: ca trag in tine
+[20:39:37] [chat] [Gaabriel]: si nimic
+[20:39:37] [kill] Gaabriel killed iTA Desert Eagle
+[20:40:13] [kill] iTA killed Gaabriel Desert Eagle
+[20:40:52] [chat] [Gaabriel]: am vazut
+[20:40:54] [kill] iTA killed Gaabriel Desert Eagle
+[20:41:23] [kill] Gaabriel killed iTA Desert Eagle
+[20:41:33] [part] iTA has left the server (1:1)
+[20:42:12] [connection] incoming connection: 86.124.203.124:60052 id: 1
+[20:42:13] [join] iTA has joined the server (1:86.124.203.124)
+[20:42:28] [kill] Gaabriel killed STX Desert Eagle
+[20:42:55] [death] iTA died 54
+[20:43:16] [part] iTA has left the server (1:0)
+[20:43:30] [connection] incoming connection: 86.124.203.124:52917 id: 1
+[20:43:31] [join] iTA has joined the server (1:86.124.203.124)
+[20:43:37] [death] iTA died 255
+[20:43:38] [kill] Gaabriel killed STX Desert Eagle
+[20:43:53] [kill] Gaabriel killed STX Desert Eagle
+[20:44:01] [connection] incoming connection: 37.46.114.112:65222 id: 5
+[20:44:06] [kill] Gaabriel killed STX Desert Eagle
+[20:44:35] [kill] Gaabriel killed STX Desert Eagle
+[20:45:03] [chat] [AlEx01]: cn esti
+[20:45:04] [kill] Gaabriel killed AlEx01 Desert Eagle
+[20:45:09] [kill] Gaabriel killed STX Desert Eagle
+[20:45:12] [kill] Gaabriel killed AlEx01 Desert Eagle
+[20:45:57] [kill] Gaabriel killed STX Desert Eagle
+[20:46:04] [kill] Gaabriel killed STX Desert Eagle
+[20:46:15] [chat] [Gaabriel]: hai sa vedem
+[20:46:21] [chat] [Gaabriel]: cel mai bine se observa la duele
+[20:46:26] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:47:07] [kill] Gaabriel killed Ursu93 Desert Eagle
+[20:47:48] [kill] Ursu93 killed Gaabriel Desert Eagle
+[20:47:58] [chat] [Gaabriel]: merge
+[20:47:59] [chat] [Gaabriel]: bine
+[20:49:25] [chat] [Gaabriel]:  nu cred ca se afiseaza gresit minutele
+[20:49:42] [death] AlEx01 died 255
+[20:51:01] [chat] [Ursu93]: esti?
+[20:51:51] [kill] Gaabriel killed STX Desert Eagle
+[20:52:02] [kill] Gaabriel killed STX Desert Eagle
+[20:52:15] [kill] Gaabriel killed STX Desert Eagle
+[20:52:30] [kill] Gaabriel killed STX Desert Eagle
+[20:52:35] [chat] [AlEx01]:  /spec ita
+[20:52:36] [kill] Gaabriel killed STX Desert Eagle
+[20:53:00] [kill] Gaabriel killed STX Desert Eagle
+[20:53:09] [kill] Gaabriel killed STX Desert Eagle
+[20:53:18] [kill] Gaabriel killed STX Desert Eagle
+[20:53:24] [kill] Gaabriel killed STX Desert Eagle
+[20:53:41] [kill] Gaabriel killed STX Desert Eagle
+[20:56:06] [connection] incoming connection: 79.116.123.155:60378 id: 5
+[20:56:06] [join] GTZ has joined the server (5:79.116.123.155)
+[20:57:01] [kill] iTA killed GTZ Desert Eagle
+[20:57:02] [chat] [GTZ]: au
+[20:59:02] [chat] [GTZ]: n am arma
+[20:59:20] [kill] Ursu93 killed iTA Desert Eagle
+[20:59:33] [kill] iTA killed GTZ Desert Eagle
+[20:59:45] [kill] Ursu93 killed AlEx01 Desert Eagle
+[20:59:56] [kill] iTA killed Ursu93 Desert Eagle
+[21:00:16] [chat] [Gaabriel]: hai sa-i rupem
+[21:00:34] [kill] Ursu93 killed AlEx01 Desert Eagle
+[21:00:48] [kill] AlEx01 killed GTZ Desert Eagle
+[21:00:52] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:00:57] [kill] iTA killed Ursu93 Desert Eagle
+[21:01:24] [kill] iTA killed Ursu93 Desert Eagle
+[21:01:24] [kill] Gaabriel killed AlEx01 Desert Eagle
+[21:01:31] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:01:36] [kill] AlEx01 killed Ursu93 Desert Eagle
+[21:01:55] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:02:04] [kill] Ursu93 killed AlEx01 Desert Eagle
+[21:02:21] [kill] Ursu93 killed iTA Desert Eagle
+[21:02:32] [kill] GTZ killed AlEx01 Desert Eagle
+[21:02:36] [chat] [Gaabriel]: ii lag
+[21:02:50] [kill] Gaabriel killed AlEx01 Desert Eagle
+[21:02:58] [kill] AlEx01 killed GTZ Desert Eagle
+[21:02:59] [kill] Ursu93 killed AlEx01 Desert Eagle
+[21:03:16] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:03:17] [part] iTA has left the server (1:2)
+[21:03:23] [kill] AlEx01 killed Ursu93 Desert Eagle
+[21:03:44] [kill] GTZ killed AlEx01 Desert Eagle
+[21:03:52] [connection] incoming connection: 86.124.203.124:51738 id: 1
+[21:03:56] [kill] GTZ killed AlEx01 Desert Eagle
+[21:04:07] [kill] Gaabriel killed AlEx01 Desert Eagle
+[21:04:16] [kill] AlEx01 killed GTZ Desert Eagle
+[21:04:26] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:04:27] [kill] Gaabriel killed AlEx01 Desert Eagle
+[21:04:29] [connection] incoming connection: 86.124.203.124:51745 id: 1
+[21:04:29] [join] iTA has joined the server (1:86.124.203.124)
+[21:04:33] [chat] [Ursu93]: Aunjail alex
+[21:04:39] [death] iTA died 255
+[21:04:51] [kill] AlEx01 killed GTZ Desert Eagle
+[21:05:05] [kill] AlEx01 killed Ursu93 Desert Eagle
+[21:06:45] [kill] iTA killed Ursu93 Desert Eagle
+[21:06:49] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:06:58] [kill] iTA killed GTZ Desert Eagle
+[21:07:06] [kill] GTZ killed AlEx01 Desert Eagle
+[21:07:20] [kill] AlEx01 killed GTZ Desert Eagle
+[21:07:21] [kill] Ursu93 killed iTA Desert Eagle
+[21:07:30] [kill] GTZ killed Ursu93 Desert Eagle
+[21:07:35] [kill] AlEx01 killed GTZ Desert Eagle
+[21:07:46] [kill] iTA killed GTZ Desert Eagle
+[21:07:53] [kill] AlEx01 killed Ursu93 Desert Eagle
+[21:07:59] [kill] AlEx01 killed GTZ Desert Eagle
+[21:08:05] [kill] Ursu93 killed AlEx01 Desert Eagle
+[21:08:15] [kill] Ursu93 killed iTA Desert Eagle
+[21:08:17] [kill] Ursu93 killed AlEx01 Desert Eagle
+[21:08:34] [kill] iTA killed GTZ Desert Eagle
+[21:08:40] [kill] AlEx01 killed Gaabriel Desert Eagle
+[21:08:45] [kill] AlEx01 killed GTZ Desert Eagle
+[21:08:46] [kill] GTZ killed iTA 
+[21:08:54] [kill] Gaabriel killed STX Minigun
+[21:09:01] [kill] GTZ killed AlEx01 Desert Eagle
+[21:09:06] [kill] Gaabriel killed iTA Minigun
+[21:09:20] [kill] Gaabriel killed AlEx01 Minigun
+[21:09:22] [kill] iTA killed GTZ Desert Eagle
+[21:09:22] [kill] Gaabriel killed iTA Minigun
+[21:09:39] [kill] Gaabriel killed AlEx01 Minigun
+[21:09:40] [kill] Gaabriel killed iTA Minigun
+[21:09:45] [kill] AlEx01 killed Gaabriel Minigun
+[21:09:58] [kill] AlEx01 killed Gaabriel Minigun
+[21:10:13] [kill] Gaabriel killed iTA Minigun
+[21:10:24] [kill] AlEx01 killed GTZ Minigun
+[21:10:27] [kill] Gaabriel killed AlEx01 Minigun
+[21:10:27] [kill] AlEx01 killed Gaabriel Minigun
+[21:10:37] [kill] AlEx01 killed Ursu93 Minigun
+[21:10:38] [kill] AlEx01 killed Gaabriel Minigun
+[21:10:52] [kill] AlEx01 killed Gaabriel Minigun
+[21:10:54] [death] iTA died 255
+[21:10:58] [kill] AlEx01 killed Ursu93 Minigun
+[21:11:01] [kill] GTZ killed Gaabriel MP5
+[21:11:03] [chat] [Gaabriel]: :))
+[21:11:10] [kill] Gaabriel killed iTA Minigun
+[21:11:17] [kill] AlEx01 killed Gaabriel Minigun
+[21:11:26] [kill] AlEx01 killed Ursu93 Minigun
+[21:11:32] [kill] Gaabriel killed iTA Minigun
+[21:11:33] [kill] AlEx01 killed Gaabriel Minigun
+[21:11:44] [kill] AlEx01 killed Gaabriel Minigun
+[21:11:57] [kill] AlEx01 killed Gaabriel Minigun
+[21:12:00] [kill] GTZ killed AlEx01 MP5
+[21:12:02] [kill] AlEx01 killed GTZ Minigun
+[21:12:21] [kill] AlEx01 killed Gaabriel Minigun
+[21:13:34] [kill] iTA killed AlEx01 
+[21:13:42] [part] iTA has left the server (1:1)
+[21:14:11] [connection] incoming connection: 86.124.203.124:59709 id: 1
+[21:14:12] [join] iTA has joined the server (1:86.124.203.124)
+[21:14:32] [kill] Gaabriel killed iTA Minigun
+[21:15:03] [kill] Gaabriel killed iTA Minigun
+[21:15:38] [part] iTA has left the server (1:1)
+[21:16:03] [connection] incoming connection: 86.124.203.124:62171 id: 1
+[21:16:03] [join] iTA has joined the server (1:86.124.203.124)
+[21:16:36] [kill] Gaabriel killed iTA Minigun
+[21:17:37] [kill] Gaabriel killed iTA Minigun
+[21:17:55] [kill] iTA killed Gaabriel Minigun
+[21:18:18] [kill] iTA killed Gaabriel Minigun
+[21:18:47] [kill] iTA killed Gaabriel Minigun
+[21:19:18] [kill] iTA killed Gaabriel Minigun
+[21:19:34] [part] Ursu93 has left the server (0:0)
+[21:19:47] [kill] iTA killed Gaabriel Minigun
+[21:20:05] [kill] iTA killed Gaabriel Chainsaw
+[21:21:33] [kill] iTA killed Gaabriel Chainsaw
+[21:24:09] [chat] [Gaabriel]:  /a iTa
+[21:24:20] [chat] [Gaabriel]: ce da
+[21:24:20] [chat] [Gaabriel]: aa
+[21:24:24] [chat] [Gaabriel]: aa ca ai wanted
+[21:24:33] [chat] [iTA]: da
+[21:24:47] [kill] iTA killed Gaabriel Chainsaw
+[21:25:25] [kill] Gaabriel killed iTA Desert Eagle
+[21:25:58] [chat] [iTA]: cf
+[21:26:06] [chat] [Gaabriel]: te verific de hack
+[21:26:14] [part] iTA has left the server (1:0)
+[21:29:41] [part] Gaabriel has left the server (4:1)
+[21:31:28] [part] STX has left the server (3:1)
+[21:38:36] [part] GTZ has left the server (5:1)
+[21:56:11] [part] AlEx01 has left the server (2:1)
+[21:57:26] [connection] incoming connection: 84.232.142.150:59627 id: 0
+[21:57:29] [join] porTobV has joined the server (0:84.232.142.150)
+[21:57:44] [death] porTobV died 255
+[22:04:47] [part] porTobV has left the server (0:1)
+[23:48:34] [connection] incoming connection: 62.66.141.96:62776 id: 0
+[23:48:34] [join] Kurama has joined the server (0:62.66.141.96)
+[23:48:47] [death] Kurama died 255
+[23:49:02] [part] Kurama has left the server (0:0)
+[23:49:14] [connection] incoming connection: 62.66.141.96:62784 id: 0
+[23:49:15] [join] Kurama has joined the server (0:62.66.141.96)
+[23:51:02] [part] Kurama has left the server (0:1)
+[11:20:38] [connection] incoming connection: 178.138.34.117:62861 id: 0
+[11:20:38] [join] SpRiTe has joined the server (0:178.138.34.117)
+[11:20:58] [death] SpRiTe died 255
+[11:22:44] [connection] incoming connection: 188.27.131.133:57525 id: 1
+[11:22:44] [join] Ursu93 has joined the server (1:188.27.131.133)
+[11:23:14] [part] SpRiTe has left the server (0:0)
+[11:23:27] [connection] incoming connection: 178.138.34.117:48501 id: 0
+[11:23:28] [join] SpRiTe has joined the server (0:178.138.34.117)
+[11:24:19] [death] SpRiTe died 255
+[11:24:54] [chat] [Ursu93]: salut
+[11:25:02] [chat] [Ursu93]: care esti? :D
+[11:25:12] [chat] [SpRiTe]: MarYus17 pe forum
+[11:25:20] [chat] [Ursu93]: aaa bun
+[11:25:22] [chat] [SpRiTe]: Stai 2min ca ma duc pana jos 
+[11:26:24] [part] SpRiTe has left the server (0:0)
+[11:28:35] [connection] incoming connection: 178.138.34.117:51286 id: 0
+[11:28:36] [join] SpRiTe has joined the server (0:178.138.34.117)
+[11:37:44] [connection] incoming connection: 84.232.142.150:54418 id: 2
+[11:37:44] [join] porTobV has joined the server (2:84.232.142.150)
+[11:41:31] [chat] [Ursu93]: vezi daca imi poti fura masina
+[11:42:07] [chat] [porTobV]: m
+[11:42:11] [chat] [porTobV]: merge sa dau si lock
+[11:42:16] [chat] [Ursu93]: acum
+[11:42:22] [chat] [porTobV]: acum nu
+[11:42:28] [chat] [Ursu93]: bun 
+[11:43:21] [connection] incoming connection: 81.18.64.75:56747 id: 3
+[11:43:21] [join] Scarfac3 has joined the server (3:81.18.64.75)
+[11:45:23] [death] SpRiTe died 54
+[11:45:49] [death] SpRiTe died 54
+[11:50:20] [death] porTobV died 255
+[11:55:03] [death] Scarfac3 died 255
+[11:57:44] [chat] [Scarfac3]: pai ce cauti aici
+[11:57:52] [chat] [SpRiTe]: Mi a dat checkpoint aici
+[11:57:57] [chat] [Scarfac3]: pebune?
+[11:57:58] [chat] [SpRiTe]: da
+[11:58:02] [chat] [Scarfac3]: nu trebuia aici
+[11:58:12] [chat] [SpRiTe]: plm
+[11:58:16] [chat] [Scarfac3]: pf
+[11:58:17] [chat] [SpRiTe]: Acum mi a dat si dincolo
+[11:58:18] [chat] [Scarfac3]: nasp
+[11:59:14] [part] Scarfac3 has left the server (3:1)
+[12:02:44] [connection] incoming connection: 86.122.57.224:65185 id: 3
+[12:02:44] [join] AlEx01 has joined the server (3:86.122.57.224)
+[12:03:44] [chat] [AlEx01]:  /makeleader
+[12:04:19] [chat] [SpRiTe]: contracts
+[12:06:11] [chat] [SpRiTe]: givehit
+[12:06:19] [chat] [SpRiTe]: undercover
+[12:06:26] [chat] [SpRiTe]: undercover
+[12:06:29] [chat] [SpRiTe]: undercover on
+[12:06:34] [chat] [SpRiTe]: givehit
+[12:06:37] [chat] [SpRiTe]: givehit
+[12:06:40] [chat] [SpRiTe]: givehit 3
+[12:06:47] [chat] [SpRiTe]: myhit
+[12:06:56] [chat] [SpRiTe]: contracgts
+[12:06:59] [chat] [SpRiTe]: contracts
+[12:07:08] [chat] [SpRiTe]: givehit
+[12:07:12] [chat] [SpRiTe]: givehit 3
+[12:07:19] [chat] [SpRiTe]: givehit 0
+[12:07:27] [death] SpRiTe died 54
+[12:07:56] [chat] [SpRiTe]: alex
+[12:08:01] [chat] [SpRiTe]: logout
+[12:08:05] [chat] [SpRiTe]: alex
+[12:08:45] [chat] [SpRiTe]: ma
+[12:09:13] [kill] SpRiTe killed AlEx01 Desert Eagle
+[12:10:44] [part] SpRiTe has left the server (0:1)
+[12:16:42] [death] AlEx01 died 54
+[12:22:02] [connection] incoming connection: 89.137.104.30:54055 id: 0
+[12:22:02] [join] Dragos122 has joined the server (0:89.137.104.30)
+[12:22:20] [death] Dragos122 died 54
+[12:24:56] [chat] [AlEx01]: ma duc sa-mi iau alta masina ca nu-mi place asta :))
+[12:25:20] [connection] incoming connection: 178.138.97.86:33067 id: 4
+[12:25:20] [join] BogdaNeLL has joined the server (4:178.138.97.86)
+[12:26:41] [death] Ursu93 died 54
+[12:27:34] [chat] [Ursu93]: sal
+[12:27:38] [chat] [Ursu93]: lucrez, tu?
+[12:27:38] [chat] [Dragos122]: sal
+[12:27:43] [chat] [Dragos122]: nu
+[12:27:48] [chat] [Ursu93]: e lag?
+[12:27:51] [chat] [Dragos122]: nu
+[12:28:00] [chat] [Ursu93]: baaa
+[12:28:13] [part] Ursu93 has left the server (1:0)
+[12:28:17] [connection] incoming connection: 188.27.131.133:55926 id: 1
+[12:28:17] [join] Ursu93 has joined the server (1:188.27.131.133)
+[12:29:20] [chat] [Ursu93]: cf ? te plimbi?
+[12:29:26] [chat] [Ursu93]: asa mare e plictiseala?
+[12:29:46] [chat] [Ursu93]: aloo, baiatu?
+[12:29:50] [chat] [Ursu93]: esti in transa?
+[12:29:54] [chat] [Dragos122]: daaaaaaa
+[12:30:02] [part] Ursu93 has left the server (1:0)
+[12:30:09] [connection] incoming connection: 188.27.131.133:58249 id: 1
+[12:30:09] [join] Ursu93 has joined the server (1:188.27.131.133)
+[12:30:17] [death] Ursu93 died 255
+[12:40:35] [chat] [Dragos122]: order
+[12:40:39] [chat] [Dragos122]: order 7
+[12:43:12] [chat] [Dragos122]: order
+[12:43:16] [chat] [Dragos122]: order 6
+[12:43:27] [chat] [Dragos122]: contracts
+[12:43:46] [chat] [Dragos122]: givehit
+[12:43:49] [chat] [Dragos122]: givehit dragps
+[12:43:56] [chat] [Dragos122]: givehit dragos
+[12:44:03] [chat] [Dragos122]: ranks
+[12:44:07] [chat] [Dragos122]: undercover
+[12:44:08] [chat] [Dragos122]: undercover on
+[12:44:11] [chat] [Dragos122]: undercover on
+[12:44:14] [chat] [Dragos122]: undercover off
+[12:44:20] [chat] [Dragos122]: myhit
+[12:44:27] [connection] incoming connection: 86.124.202.173:53824 id: 5
+[12:44:27] [join] iTA has joined the server (5:86.124.202.173)
+[12:44:27] [chat] [Dragos122]: checkmycontacts
+[12:44:32] [chat] [Dragos122]: logut
+[12:44:34] [chat] [Dragos122]: logout
+[12:53:34] [kill] iTA killed BogdaNeLL Desert Eagle
+[12:53:46] [death] iTA died 54
+[12:56:22] [chat] [porTobV]: ba cand plm se termina cu corona pulii mele
+[12:56:27] [chat] [porTobV]: ca m am saturat sa stau in casa
+[12:57:54] [chat] [BogdaNeLL]: dau cu lopata
+[12:58:12] [kill] iTA killed BogdaNeLL Chainsaw
+[12:58:14] [chat] [BogdaNeLL]: aaa
+[12:58:15] [chat] [BogdaNeLL]: bine
+[12:58:29] [chat] [iTA]: am sunet
+[12:58:34] [chat] [iTA]: ce smecher se aude drujba
+[12:58:50] [kill] iTA killed BogdaNeLL Chainsaw
+[12:58:52] [chat] [BogdaNeLL]: :@
+[12:59:36] [chat] [AlEx01]:  /goto ita
+[12:59:36] [chat] [BogdaNeLL]: team ars
+[12:59:42] [chat] [iTA]: sal alecs
+[12:59:46] [chat] [BogdaNeLL]: baa
+[12:59:47] [chat] [BogdaNeLL]: ce drc
+[12:59:50] [chat] [iTA]: =))
+[12:59:53] [chat] [iTA]: cf
+[12:59:54] [part] AlEx01 has left the server (3:1)
+[12:59:58] [kill] BogdaNeLL killed iTA Minigun
+[13:00:10] [death] Dragos122 died 255
+[13:00:54] [kill] iTA killed BogdaNeLL Desert Eagle
+[13:01:11] [chat] [Dragos122]: aveti declaratie pe propria raspundere?
+[13:02:17] [death] Dragos122 died 255
+[13:03:52] [chat] [Ursu93]: cf aici?
+[13:05:07] [chat] [Ursu93]: cu iesitorul :))
+[13:05:11] [chat] [Dragos122]: CUM?
+[13:06:42] [chat] [Ursu93]: da de ce sa iesi?
+[13:06:45] [chat] [Ursu93]: e frumos aici
+[13:06:49] [chat] [Dragos122]: vreau afara
+[13:06:51] [chat] [Dragos122]: am foaie
+[13:07:01] [chat] [Ursu93]: stai aci
+[13:07:34] [chat] [Ursu93]: ai de plm
+[13:07:37] [chat] [Ursu93]: de aici
+[13:07:39] [chat] [Dragos122]: da
+[13:07:43] [chat] [Dragos122]: acuma vad si eu
+[13:07:49] [chat] [Ursu93]: dar oricum
+[13:07:52] [chat] [Ursu93]: hai pe discord
+[13:07:57] [chat] [Ursu93]: sa-ti zic
+[13:08:00] [chat] [Ursu93]: idee
+[13:08:19] [chat] [Dragos122]: voce 1
+[13:14:40] [part] Ursu93 has left the server (1:0)
+[13:14:43] [connection] incoming connection: 188.27.131.133:55509 id: 1
+[13:14:43] [join] Ursu93 has joined the server (1:188.27.131.133)
+[13:15:38] [chat] [Dragos122]: order
+[13:15:40] [chat] [Dragos122]: order 6
+[13:15:42] [chat] [Dragos122]: givehit
+[13:15:47] [chat] [Dragos122]: givehit
+[13:15:57] [chat] [Dragos122]: l
+[13:16:03] [chat] [Dragos122]: contracts
+[13:16:12] [chat] [Dragos122]: logout
+[13:16:47] [death] Ursu93 died 54
+[13:18:01] [kill] iTA killed BogdaNeLL Desert Eagle
+[13:18:30] [death] Dragos122 died 54
+[13:19:09] [chat] [Ursu93]: sal etaleanu
+[13:19:13] [chat] [iTA]: neata
+[13:19:19] [chat] [Ursu93]: ne auzim imediat pe discord?
+[13:19:21] [chat] [Ursu93]: ai vreme?
+[13:19:24] [chat] [iTA]: hai
+[13:19:30] [chat] [Ursu93]: imediat
+[13:19:35] [chat] [Ursu93]: in vreo 5 minute
+[13:19:40] [chat] [iTA]: ma anunti
+[13:19:49] [part] porTobV has left the server (2:1)
+[13:26:06] [kill] Dragos122 killed Ursu93 Knife
+[13:28:25] [chat] [Ursu93]: sunt pe voice 1 
+[13:31:31] [death] iTA died 54
+[13:33:04] [part] BogdaNeLL has left the server (4:1)
+[13:36:47] [death] Ursu93 died 54
+[13:37:01] [death] Ursu93 died 54
+[13:53:58] [connection] incoming connection: 188.24.249.129:61814 id: 2
+[13:54:26] [connection] incoming connection: 188.24.249.129:65490 id: 2
+[14:09:19] [death] Dragos122 died 255
+[14:13:32] [chat] [Ursu93]: g
+[14:14:52] [death] Ursu93 died 54
+[14:21:20] [connection] incoming connection: 79.118.225.58:60483 id: 2
+[14:21:54] [connection] incoming connection: 79.118.225.58:52077 id: 2
+[14:21:54] [join] VladM has joined the server (2:79.118.225.58)
+[14:23:27] [connection] incoming connection: 81.18.64.75:63171 id: 3
+[14:23:28] [join] Scarfac3 has joined the server (3:81.18.64.75)
+[14:25:09] [kill] VladM killed Scarfac3 Minigun
+[14:25:12] [death] VladM died 255
+[14:27:02] [chat] [Scarfac3]: ba
+[14:27:03] [chat] [Scarfac3]: ba
+[14:27:05] [chat] [iTA]: a
+[14:27:07] [chat] [Scarfac3]: spawneazza
+[14:27:09] [chat] [Scarfac3]: si tu un avion
+[14:27:11] [chat] [Scarfac3]: dala mare
+[14:27:14] [chat] [Scarfac3]: sa ma plimb si eu cu el
+[14:27:17] [chat] [Scarfac3]: ca eu nu am acces
+[14:27:22] [chat] [iTA]: daca ai zice id ul
+[14:27:34] [chat] [iTA]: ba
+[14:27:37] [chat] [iTA]: da n-am acces
+[14:29:09] [chat] [Scarfac3]: dai spawncar 593
+[14:29:23] [chat] [Scarfac3]: dar mai departe
+[14:29:27] [chat] [Scarfac3]: nu dodo ba
+[14:29:35] [chat] [Ursu93]: ai zis 593
+[14:29:36] [chat] [Scarfac3]: 592
+[14:29:37] [chat] [Scarfac3]: scz
+[14:29:52] [chat] [Scarfac3]: ardel
+[14:30:01] [chat] [Scarfac3]: hai coaie
+[14:30:03] [chat] [Scarfac3]: dai g
+[14:30:55] [death] Scarfac3 died 255
+[14:31:14] [kill] VladM killed iTA Desert Eagle
+[14:31:24] [kill] VladM killed iTA Desert Eagle
+[14:31:31] [kill] VladM killed iTA Desert Eagle
+[14:31:48] [kill] iTA killed VladM Minigun
+[14:31:55] [kill] iTA killed Scarfac3 Minigun
+[14:31:59] [death] iTA died 255
+[14:32:10] [kill] iTA killed Scarfac3 Minigun
+[14:32:20] [kill] iTA killed VladM Minigun
+[14:32:22] [kill] iTA killed Scarfac3 Minigun
+[14:32:24] [kill] Scarfac3 killed iTA 
+[14:32:31] [part] iTA has left the server (5:2)
+[14:32:39] [part] Ursu93 has left the server (1:1)
+[14:32:47] [kill] VladM killed Scarfac3 Desert Eagle
+[14:32:50] [kill] Scarfac3 killed VladM 
+[14:33:01] [part] Dragos122 has left the server (0:2)
+[14:33:04] [kill] VladM killed Scarfac3 Desert Eagle
+[14:33:12] [kill] VladM killed Scarfac3 Desert Eagle
+[14:33:17] [part] Scarfac3 has left the server (3:2)
+[14:33:58] [connection] incoming connection: 86.124.202.173:60916 id: 0
+[14:33:58] [join] iTA has joined the server (0:86.124.202.173)
+[14:35:21] [connection] incoming connection: 188.27.131.133:61944 id: 1
+[14:35:21] [join] Ursu93 has joined the server (1:188.27.131.133)
+[14:35:29] [death] Ursu93 died 255
+[14:35:45] [death] iTA died 255
+[14:36:11] [kill] iTA killed VladM Chainsaw
+[14:36:17] [death] iTA died 255
+[14:36:29] [death] iTA died 255
+[14:36:51] [death] iTA died 255
+[14:37:05] [death] iTA died 54
+[14:37:41] [death] iTA died 54
+[14:37:43] [part] Ursu93 has left the server (1:1)
+[14:38:02] [death] iTA died 54
+[14:38:15] [death] iTA died 54
+[14:52:18] [connection] incoming connection: 82.137.14.219:15842 id: 1
+[14:52:19] [join] MexicanuL has joined the server (1:82.137.14.219)
+[14:52:41] [connection] incoming connection: 5.14.10.206:55155 id: 3
+[14:52:50] [connection] incoming connection: 178.138.97.171:54836 id: 3
+[14:52:56] [kill] VladM killed MexicanuL Desert Eagle
+[14:53:00] [connection] incoming connection: 178.138.97.171:52712 id: 3
+[14:53:14] [death] VladM died 255
+[14:53:14] [kill] VladM killed MexicanuL 
+[14:53:18] [chat] [VladM]: =))
+[14:53:51] [death] VladM died 255
+[14:54:12] [part] MexicanuL has left the server (1:1)
+[15:11:25] [part] VladM has left the server (2:1)
+[15:17:41] [connection] incoming connection: 109.96.53.22:63603 id: 1
+[15:17:41] [join] jok3rss0beit has joined the server (1:109.96.53.22)
+[15:30:28] [connection] incoming connection: 92.84.171.100:59911 id: 2
+[15:30:29] [join] B@ToN has joined the server (2:92.84.171.100)
+[15:30:35] [death] B@ToN died 255
+[15:32:07] [chat] [jok3rss0beit]: s
+[15:32:07] [death] B@ToN died 54
+[15:32:14] [chat] [jok3rss0beit]: ss
+[15:32:19] [chat] [jok3rss0beit]: ss
+[15:33:49] [death] B@ToN died 54
+[15:34:08] [death] B@ToN died 255
+[15:34:38] [chat] [B@ToN]: y
+[15:35:32] [part] B@ToN has left the server (2:1)
+[15:35:42] [death] jok3rss0beit died 54
+[15:38:28] [kill] jok3rss0beit killed iTA Desert Eagle
+[15:38:31] [chat] [jok3rss0beit]: cf
+[15:38:44] [chat] [jok3rss0beit]: pace
+[15:38:50] [chat] [iTA]: pace a?
+[15:38:52] [chat] [jok3rss0beit]: yes
+[15:39:02] [chat] [iTA]: tu cf
+[15:39:09] [chat] [jok3rss0beit]: tot nu pot sa pescuiesc..............
+[15:39:29] [chat] [jok3rss0beit]: ba
+[15:39:31] [chat] [iTA]: a
+[15:39:35] [chat] [jok3rss0beit]: am castigat 2 skill up la gunoier
+[15:39:37] [chat] [iTA]: l o face
+[15:39:37] [chat] [jok3rss0beit]: si tot skill 1 am
+[15:39:37] [connection] incoming connection: 188.27.131.133:61431 id: 2
+[15:39:38] [join] Ursu93 has joined the server (2:188.27.131.133)
+[15:39:53] [chat] [iTA]: mai fa inca o tura
+[15:39:56] [chat] [jok3rss0beit]: nu ba
+[15:39:59] [chat] [jok3rss0beit]: la getgift acolo
+[15:40:00] [part] Ursu93 has left the server (2:0)
+[15:40:02] [chat] [jok3rss0beit]: castigai 2 skill up
+[15:40:09] [chat] [iTA]: a
+[15:40:14] [chat] [iTA]: nu functioneste cu mtrebuie
+[15:40:17] [chat] [jok3rss0beit]: a e bn
+[15:40:17] [chat] [iTA]: nu functioneste cum trebuie
+[15:40:22] [connection] incoming connection: 188.27.131.133:51306 id: 2
+[15:40:22] [join] Ursu93 has joined the server (2:188.27.131.133)
+[15:40:28] [chat] [jok3rss0beit]: iti plc casa mea
+[15:40:43] [chat] [jok3rss0beit]: pasta o cumpar si cand se deschde srv
+[15:40:46] [chat] [jok3rss0beit]: fac job 24 ore
+[15:40:49] [part] Ursu93 has left the server (2:1)
+[15:41:41] [chat] [jok3rss0beit]: oare cat o sa coste
+[15:41:44] [chat] [jok3rss0beit]: palatu asta
+[15:41:46] [chat] [jok3rss0beit]: cand se deschide srv
+[15:41:53] [chat] [iTA]: o sa coste 
+[15:41:56] [chat] [jok3rss0beit]: kt
+[15:41:58] [chat] [iTA]: mult din prima
+[15:42:02] [chat] [iTA]: ca gen
+[15:42:03] [chat] [jok3rss0beit]: ie al meu
+[15:42:07] [chat] [iTA]: o sa stergem toate casele
+[15:42:11] [chat] [jok3rss0beit]: te pun aici sa-l pazesti sa nu dea nimeni buy
+[15:42:15] [chat] [iTA]: si facem cate una pe rand
+[15:42:21] [chat] [iTA]: facem una o scoatem la licitatie
+[15:42:23] [chat] [iTA]: inca una
+[15:42:27] [chat] [iTA]: bagam la licitatie
+[15:42:30] [chat] [iTA]: si tot asa
+[15:42:35] [chat] [jok3rss0beit]: adica
+[15:42:39] [chat] [jok3rss0beit]: nu le bagati pe toate
+[15:42:43] [chat] [iTA]: da
+[15:42:45] [chat] [jok3rss0beit]: dc
+[15:42:49] [chat] [iTA]: depinde si de preferinte
+[15:42:59] [chat] [iTA]: o sa bagam dar cu bani reali
+[15:43:04] [chat] [iTA]: sa se faca case personalizate
+[15:43:08] [chat] [jok3rss0beit]: am inteles
+[15:43:12] [chat] [iTA]: e smk
+[15:43:17] [chat] [jok3rss0beit]: oricum asta ie al meu
+[15:43:21] [chat] [iTA]: casa mea se stie care e
+[15:43:25] [chat] [jok3rss0beit]: care
+[15:43:26] [chat] [iTA]: din 2016 incoa
+[15:43:35] [chat] [iTA]: prima de pe vw
+[15:43:39] [chat] [iTA]: a fost doar la mine
+[15:43:46] [chat] [jok3rss0beit]: aia la care ai rupt afk mai devreme
+[15:43:50] [chat] [iTA]: da
+[15:43:51] [chat] [iTA]: =))
+[15:43:53] [chat] [jok3rss0beit]: dc 
+[15:43:55] [chat] [jok3rss0beit]: e urata
+[15:44:01] [chat] [iTA]: e la suflet
+[15:44:46] [chat] [iTA]: cum drq
+[15:44:59] [chat] [jok3rss0beit]: zice ca e locked
+[15:45:03] [chat] [iTA]: dai rent
+[15:45:05] [chat] [jok3rss0beit]: nu pot
+[15:45:07] [chat] [jok3rss0beit]: ca am casa
+[15:47:04] [chat] [jok3rss0beit]: pe unde ies
+[15:47:10] [chat] [iTA]: st ca nu merge
+[15:47:13] [chat] [jok3rss0beit]: adica
+[15:49:38] [chat] [jok3rss0beit]: hai ba suie
+[15:49:46] [chat] [jok3rss0beit]: ba cum e-ai urcat
+[15:49:48] [chat] [jok3rss0beit]: ca era inchisa
+[15:49:54] [chat] [iTA]: merge
+[15:49:56] [chat] [iTA]: sa dai g
+[15:49:56] [chat] [jok3rss0beit]: ...
+[15:49:57] [chat] [iTA]: dar nu f
+[15:50:02] [chat] [jok3rss0beit]: nu acum
+[15:50:38] [chat] [iTA]: fii atent ca ti aduc nrg de la pd si poti da g la el i nu f
+[15:50:42] [chat] [jok3rss0beit]: da ba stiu
+[15:50:45] [chat] [iTA]: aia zic
+[15:50:46] [chat] [jok3rss0beit]: ma refeream cum te-ai urcat pe el
+[15:50:48] [chat] [jok3rss0beit]: sa-l conduci
+[15:50:54] [chat] [iTA]: era deschis?
+[15:50:57] [chat] [jok3rss0beit]: a lol
+[15:54:17] [chat] [jok3rss0beit]: unde sa te caci ma
+[15:55:32] [connection] incoming connection: 188.27.131.133:52246 id: 2
+[15:55:39] [connection] incoming connection: 188.27.131.133:52252 id: 3
+[15:55:39] [join] Ursu93 has joined the server (3:188.27.131.133)
+[15:55:46] [death] Ursu93 died 255
+[15:56:15] [part] Ursu93 has left the server (3:0)
+[15:56:57] [chat] [jok3rss0beit]: asta dc nu e bagat
+[15:56:57] [chat] [iTA]: nu e
+[15:56:58] [chat] [jok3rss0beit]: :((
+[15:57:00] [chat] [iTA]: o sa se bage
+[15:57:04] [chat] [iTA]: ca propun playerii
+[15:58:53] [chat] [iTA]: stai asa ca e duc eu la o casa
+[15:59:12] [chat] [iTA]: a
+[15:59:13] [chat] [jok3rss0beit]: nu ie
+[15:59:14] [chat] [iTA]: da
+[16:00:32] [chat] [jok3rss0beit]: nu e ba
+[16:00:39] [chat] [iTA]: a fost casa lui sebone
+[16:00:43] [chat] [jok3rss0beit]: a =))))))))))))
+[16:00:58] [chat] [jok3rss0beit]: il fut an gura de bou ca mi-a dat like si mi-a stricat siru de haha pe fb
+[16:01:08] [chat] [iTA]: baaa
+[16:01:13] [chat] [iTA]: cel mai urat gest posibil
+[16:01:15] [chat] [jok3rss0beit]: da stiu
+[16:01:18] [chat] [jok3rss0beit]: sibian prost
+[16:01:30] [chat] [iTA]: inca ma pis
+[16:01:30] [chat] [jok3rss0beit]: am facut ss cum ma pis pe casa lui
+[16:01:32] [chat] [jok3rss0beit]: ii trimit pe fb
+[16:01:36] [chat] [iTA]: si am dat stopani
+[16:01:37] [chat] [jok3rss0beit]: sho
+[16:01:39] [chat] [jok3rss0beit]: umblu cu pisatu dupa mn
+[16:01:46] [chat] [iTA]: si am si mod
+[16:01:47] [chat] [jok3rss0beit]: apasa f
+[16:01:49] [chat] [iTA]: ma pis galben
+[16:01:51] [chat] [iTA]: de la bere
+[16:01:55] [chat] [jok3rss0beit]: :)):))
+[16:03:32] [death] iTA died 54
+[16:03:40] [part] jok3rss0beit has left the server (1:1)
+[16:03:41] [part] iTA has left the server (0:1)
+[16:22:45] [connection] incoming connection: 79.112.250.209:13059 id: 0
+[16:22:55] [connection] incoming connection: 79.112.250.209:57174 id: 0
+[16:23:05] [connection] incoming connection: 79.112.250.209:13061 id: 0
+[16:23:15] [connection] incoming connection: 79.112.250.209:57176 id: 0
+[16:23:28] [connection] incoming connection: 79.112.250.209:13063 id: 0
+[16:23:28] [connection] incoming connection: 79.112.250.209:57178 id: 0
+[16:23:28] [join] hurdu has joined the server (0:79.112.250.209)
+[16:23:43] [death] hurdu died 255
+[16:24:25] [part] hurdu has left the server (0:1)
+[16:24:46] [connection] incoming connection: 188.27.131.133:58321 id: 0
+[16:24:46] [join] Ursu93 has joined the server (0:188.27.131.133)
+[16:24:48] [connection] incoming connection: 79.112.250.209:59922 id: 1
+[16:24:54] [connection] incoming connection: 79.112.250.209:13083 id: 2
+[16:25:09] [connection] incoming connection: 79.112.250.209:59924 id: 1
+[16:25:20] [connection] incoming connection: 79.112.250.209:13085 id: 1
+[16:25:20] [connection] incoming connection: 79.112.250.209:59926 id: 1
+[16:25:20] [join] hurdu has joined the server (1:79.112.250.209)
+[16:25:28] [chat] [Ursu93]: -/Nick-change Nick.
+[16:27:32] [death] Ursu93 died 255
+[16:29:51] [part] Ursu93 has left the server (0:0)
+[16:30:26] [part] hurdu has left the server (1:1)
+[16:30:47] [connection] incoming connection: 188.27.131.133:49456 id: 0
+[16:30:47] [join] Ursu93 has joined the server (0:188.27.131.133)
+[16:31:09] [death] Ursu93 died 255
+[16:31:51] [part] Ursu93 has left the server (0:0)
+[16:35:59] [connection] incoming connection: 188.27.131.133:62701 id: 0
+[16:35:59] [join] Ursu93 has joined the server (0:188.27.131.133)
+[16:36:07] [death] Ursu93 died 255
+[16:36:25] [death] Ursu93 died 255
+[16:38:01] [part] Ursu93 has left the server (0:0)
+[16:41:03] [connection] incoming connection: 188.27.131.133:58586 id: 0
+[16:41:03] [join] Ursu93 has joined the server (0:188.27.131.133)
+[16:45:01] [death] Ursu93 died 54
+[16:45:30] [part] Ursu93 has left the server (0:1)
+[16:47:35] [connection] incoming connection: 188.27.131.133:61242 id: 0
+[16:47:35] [join] Ursu_93 has joined the server (0:188.27.131.133)
+[16:48:33] [part] Ursu_93 has left the server (0:1)
+[18:26:26] [connection] incoming connection: 109.100.109.214:18446 id: 0
+[18:26:29] [join] wRaiTh has joined the server (0:109.100.109.214)
+[18:26:39] [death] wRaiTh died 255
+[18:48:11] [connection] incoming connection: 86.121.157.52:52130 id: 1
+[18:48:22] [connection] incoming connection: 86.121.157.52:54951 id: 1
+[18:48:32] [connection] incoming connection: 86.121.157.52:54952 id: 1
+[18:48:42] [connection] incoming connection: 86.121.157.52:54953 id: 1
+[18:54:27] [part] wRaiTh has left the server (0:1)
+[19:22:22] [connection] incoming connection: 79.116.123.155:52830 id: 0
+[19:23:15] [connection] incoming connection: 79.116.123.155:52381 id: 0
+[19:23:15] [join] GTZ has joined the server (0:79.116.123.155)
+[19:26:59] [part] GTZ has left the server (0:1)
+[20:51:48] [connection] incoming connection: 92.83.142.129:47589 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:35:20] filterscripts = ""  (string)
+[23:35:20] sleep = 5  (int)
+[23:35:20] logtimeformat = "[%H:%M:%S]"  (string)
+[23:35:20] ackslimit = 3000  (int)
+[23:35:20] messageholelimit = 3000  (int)
+[23:35:20] playertimeout = 10000  (int)
+[23:35:20] connseedtime = 300000  (int)
+[23:35:20] minconnectiontime = 0  (int)
+[23:35:20] 
+[23:35:20] Server Plugins
+[23:35:20] --------------
+[23:35:20]  Loading plugin: mysql_static.so
+[23:35:20]  >> plugin.mysql: R39 successfully loaded.
+[23:35:20]   Loaded.
+[23:35:20]  Loading plugin: sscanf.so
+[23:35:20] 
+
+[23:35:20]  ===============================
+
+[23:35:20]       sscanf plugin loaded.     
+
+[23:35:20]          Version:  2.8.3        
+
+[23:35:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:35:20]  ===============================
+
+[23:35:20]   Loaded.
+[23:35:20]  Loading plugin: streamer.so
+[23:35:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:35:20]   Loaded.
+[23:35:20]  Loaded 3 plugins.
+
+[23:35:20] 
+[23:35:20] Filterscripts
+[23:35:20] ---------------
+[23:35:20]   Loaded 0 filterscripts.
+
+[23:35:20] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[23:35:20] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[23:35:20] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[23:35:20] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[23:35:20] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[23:35:20] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[23:35:20] It stabilizes the connection to the database ...
+[23:35:20] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[23:35:20] Number of vehicle models: 0
+[23:35:20] LoadFactionsThread() - called (11 factions loaded).
+[23:35:20] LoadVehiclesThread() - called (297 vehicles loaded.
+[23:35:20] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[23:35:20] LoadHousesThread() - called (50 houses loaded).
+[23:35:20] LoadBizThread() - called (29 business loaded).
+[23:35:20] LoadSkinsThread() - called (312 skins loaded).
+[23:35:20] InitTurfRivalWars() - called (33 turfs loaded).
+[23:35:20] InitSpawnZone() - called (12 zones loaded).
+[23:35:20] LoadSafesThread() - called (10 safes loaded).
+[23:35:20] LoadJobsThread() - called (7 jobs loaded).
+[23:35:20] LoadDealerShipThread() - called (86 vehicles loaded).
+[23:35:20] InitPrArmThread - called (7 prices).
+[23:35:20] InitPrBurgerThread - called (5 prices).
+[23:35:20] InitPrItemsThread - called (10 prices loaded).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:00:15] filterscripts = ""  (string)
+[01:00:15] sleep = 5  (int)
+[01:00:15] logtimeformat = "[%H:%M:%S]"  (string)
+[01:00:15] ackslimit = 3000  (int)
+[01:00:15] messageholelimit = 3000  (int)
+[01:00:15] playertimeout = 10000  (int)
+[01:00:15] connseedtime = 300000  (int)
+[01:00:15] minconnectiontime = 0  (int)
+[01:00:15] 
+[01:00:15] Server Plugins
+[01:00:15] --------------
+[01:00:15]  Loading plugin: crashdetect.so
+[01:00:15]   CrashDetect v4.13.1-lse is OK.
+[01:00:15]   Loaded.
+[01:00:15]  Loading plugin: mysql_static.so
+[01:00:15]  >> plugin.mysql: R39 successfully loaded.
+[01:00:15]   Loaded.
+[01:00:15]  Loading plugin: sscanf.so
+[01:00:15] 
+
+[01:00:15]  ===============================
+
+[01:00:15]       sscanf plugin loaded.     
+
+[01:00:15]          Version:  2.8.3        
+
+[01:00:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:00:15]  ===============================
+
+[01:00:15]   Loaded.
+[01:00:15]  Loading plugin: streamer.so
+[01:00:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:00:15]   Loaded.
+[01:00:15]  Loading plugin: profiler.so
+[01:00:15]   Profiler plugin 2.15.3
+[01:00:15]   Loaded.
+[01:00:15]  Loaded 5 plugins.
+
+[01:00:15] 
+[01:00:15] Filterscripts
+[01:00:15] ---------------
+[01:00:15]   Loaded 0 filterscripts.
+
+[01:00:15] *** Streamer Plugin: Obsolete or invalid native "Streamer_RegisterInterface" found (script might need to be recompiled with the correct include file).
+[01:00:15] *** Streamer Plugin: Obsolete or invalid native "Streamer_AddPlayer" found (script might need to be recompiled with the correct include file).
+[01:00:15] *** Streamer Plugin: Obsolete or invalid native "Streamer_RemovePlayer" found (script might need to be recompiled with the correct include file).
+[01:00:15] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyPickup" found (script might need to be recompiled with the correct include file).
+[01:00:15] *** Streamer Plugin: Obsolete or invalid native "Streamer_VerifyCheckpoint" found (script might need to be recompiled with the correct include file).
+[01:00:15] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[01:00:15] [profiler] Attached profiler to gamemodes/GameModeGF
+[01:00:15] [profiler] Started profiling gamemodes/GameModeGF
+[01:00:15] It stabilizes the connection to the database ...
+[01:00:15] SQL_HOST: 193.203.39.73 SQL_USER: hc95samp76 SQL_DATA: hc95samp76, SQL_PASS: YzWwoGppRImKAaOo
+[01:00:15] Setting server password to: "test037rpg"
+[01:00:15] 
+---------------------------------------
+[01:00:15] Running eGaming RPG v.Test- - by Kurama 
+
+[01:00:15] ---------------------------------------
+
+[01:00:15] Number of vehicle models: 0
+[01:00:15] LoadFactionsThread() - called (11 factions loaded).
+[01:00:17] LoadVehiclesThread() - called (297 vehicles loaded.
+[01:00:17] *** Streamer Plugin: CreateDynamicMapIcon: Expecting 12 parameter(s), but found 9.
+[01:00:17] LoadHousesThread() - called (50 houses loaded).
+[01:00:17] LoadBizThread() - called (29 business loaded).
+[01:00:17] LoadSkinsThread() - called (312 skins loaded).
+[01:00:17] InitTurfRivalWars() - called (33 turfs loaded).
+[01:00:17] InitSpawnZone() - called (12 zones loaded).
+[01:00:17] LoadSafesThread() - called (10 safes loaded).
+[01:00:17] LoadJobsThread() - called (7 jobs loaded).
+[01:00:17] LoadDealerShipThread() - called (86 vehicles loaded).
+[01:00:17] InitPrArmThread - called (7 prices).
+[01:00:17] InitPrBurgerThread - called (5 prices).
+[01:00:17] InitPrItemsThread - called (10 prices loaded).
+[01:00:17] OtherTimer - called
+[01:00:17] DiseasePayDay - called
+[01:00:17] AleatorContracts - called
+[01:00:17] ShowMenuInBusiness - called
+[01:00:17] SendMSG - called
+[01:00:17] DiseasePlayerHealth - called
+[01:00:17] CheckGas - called
