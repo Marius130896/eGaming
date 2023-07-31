@@ -1,6 +1,7 @@
 // This is a comment
 // uncomment the line below if you want to write a filterscript
 //#define FILTERSCRIPT
+//test pentru commit SVN
 
 // ---------
 // eGaming RPG GodFather - SA:MP 2009-2019 (c) - Kurama - eGaming TEAM
