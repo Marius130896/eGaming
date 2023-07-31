@@ -421,3 +421,27 @@ Kurama [CMD:]/givelicense 0 driving
 Kurama [CMD:]/carradio
 Kurama [CMD:]/licenses
 Kurama [CMD:]/pday
+Kurama [CMD:]/resetmission
+Kurama [CMD:]/ah
+Kurama [CMD:]/resetmissions
+Kurama [CMD:]/mission
+Kurama [CMD:]/missions
+Kurama [CMD:]/licenses
+Kurama [CMD:]/gotobiz 1
+Kurama [CMD:]/gotobiz 2
+Kurama [CMD:]/gotobiz 3
+Kurama [CMD:]/gotobiz 4
+Kurama [CMD:]/gotobiz 5
+Kurama [CMD:]/gotobiz 6
+Kurama [CMD:]/gotobiz 7
+Kurama [CMD:]/gotobiz 8
+Kurama [CMD:]/gotobiz 9
+Kurama [CMD:]/gotobiz 10
+Kurama [CMD:]/gotobiz 11
+Kurama [CMD:]/gotobiz 12
+Kurama [CMD:]/gotobiz 13
+Kurama [CMD:]/gotobiz 14
+Kurama [CMD:]/addpickup
+Kurama [CMD:]/addpickup 1581 2 1 6 Gun License
+Kurama [CMD:]/gotobiz 15
+Kurama [CMD:]/gotobiz 14

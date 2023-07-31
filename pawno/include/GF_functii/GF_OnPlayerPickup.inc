@@ -39,6 +39,7 @@ new PickupInfo[MAX_PICKUPS][pickInfo];
 #define ACTION_PICK_SAILING_LICENSE 3
 #define ACTION_PICK_ORDER_HITMAN 4
 #define ACTION_PICK_DEALERSHIP 5
+#define ACTION_PICK_GUN_DMV 6
 
 stock LoadPickups() {
 	mysql_tquery(connectionHandle, "SELECT * FROM pickups", "LoadPickupsThread", "d", PICKUP_THREAD_ID);
@@ -214,6 +215,10 @@ public OnPlayerPickUpPickup(playerid, pickupid) {
 					case ACTION_PICK_DEALERSHIP: {
 						format(string, MAXO_TEXT, "%s", PickupInfo[pickupid][pickText]),
 						ShowPlayerDialog(playerid, DIALOGID_DEALERSHIP, DIALOG_STYLE_MSGBOX, "Dealership Car", string, "Select", "Cancel");
+					}
+					case ACTION_PICK_GUN_DMV: {
+						format(string, MAXO_TEXT, "Do you want to start Gun Training?\n First time cost is $10.000\nIf you win, you'll have to pay extra $10.000.\n\nRenewal cost: $%s",(gDynPlayerInfo[playerid][pGunLicType] == 0) ? FormatNumber( PlayerInfo[playerid][pLevel]*1000 , 0, ',' ) : FormatNumber( PlayerInfo[playerid][pLevel]*1500 , 0, ',' ));
+						ShowPlayerDialog(playerid, DIALOGID_DMV_WEAP, DIALOG_STYLE_MSGBOX, "DMV Test Authority", string, "Yes", "No");
 					}
 				}
 			}

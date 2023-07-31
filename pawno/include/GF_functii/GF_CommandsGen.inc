@@ -1507,6 +1507,11 @@ COMMAND:licenses(playerid, params[]) {
 	else if(PlayerInfo[playerid][pSailingLicense] <= gLocalTimeStamp) {
 		SendClientMessage(playerid, COLOR_GRAD1, "** Sailing License: "GALBEN"Expired.");
 	}
+	if(PlayerInfo[playerid][pGunLic] < 10) SendClientMessage(playerid, COLOR_GRAD1, "** Weapon License valid until: "GALBEN"None.");
+	else if(PlayerInfo[playerid][pGunLic] >= gLocalTimeStamp) {
+		format(string, MAXO_TEXT, "** Weapon License level: "GALBEN"%s "GRI"expires: "GALBEN"%s", (gDynPlayerInfo[playerid][pGunLicType] == 2) ? ("Advanced shooter") : ("Beginner shooter"),DateToTimestamp(PlayerInfo[playerid][pGunLic],1));
+		SendClientMessage(playerid, COLOR_GRAD1, string);
+	} 
 	clear.string(string);
 	return true;
 }

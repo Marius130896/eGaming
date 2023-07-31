@@ -168,6 +168,10 @@ new vehName[][] = { "Landstalker", "Bravura", "Buffalo", "Linerunner", "Perrenia
 #define DIALOGID_JOB_DRUGSDEALER 54
 #define DIALOGID_BUY_WALKIETALKIE 55
 #define DIALOGID_REFERRAL_PLAYER 56
+#define DIALOGID_DMV_WEAP 57
+#define DIALOGID_CHOSE_WEAP 58
+#define DIALOGID_LICENSE_ADDGUNBEG2 59
+#define DIALOGID_LICENSE_ADDGUNADV2 60
 
 
 #define CP_NO_ACTION 	1
@@ -345,6 +349,11 @@ enum sInfo
 };
 new SpikeInfo[MAX_SPIKESTRIPS][sInfo];
 
+enum gDInfo {
+	pGunLicType
+};
+new gDynPlayerInfo[MAX_PLAYERS][gDInfo];
+
 #define MAX_PASS_LENGHT (129)
 enum pInfo {
 	pSQLID,
@@ -448,7 +457,8 @@ enum pInfo {
 	pReferralID,
 	pReferralCash,
 	pReferralRespect,
-	pRobPoints
+	pRobPoints,
+	pGunLic,
 };
 new PlayerInfo[MAX_PLAYERS][pInfo];
 

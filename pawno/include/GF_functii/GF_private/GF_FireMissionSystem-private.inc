@@ -106,18 +106,25 @@ stock ReturnUser(text[], playerid = INVALID_PLAYER_ID) {
     return userid; // INVALID_PLAYER_ID for bad return
 }
 
-stock Float:DistanceCameraTargetToLocation(Float:CamX, Float:CamY, Float:CamZ, Float:ObjX, Float:ObjY, Float:ObjZ, Float:FrX, Float:FrY, Float:FrZ) {
+stock Float:DistanceCameraTargetToLocation(Float:CamX, Float:CamY, Float:CamZ,   Float:ObjX, Float:ObjY, Float:ObjZ,   Float:FrX, Float:FrY, Float:FrZ) {
+
 	new Float:TGTDistance;
+
+	// aflarea distantei de la camera la tinta
 	TGTDistance = floatsqroot((CamX - ObjX) * (CamX - ObjX) + (CamY - ObjY) * (CamY - ObjY) + (CamZ - ObjZ) * (CamZ - ObjZ));
+
 	new Float:tmpX, Float:tmpY, Float:tmpZ;
+
 	tmpX = FrX * TGTDistance + CamX;
 	tmpY = FrY * TGTDistance + CamY;
 	tmpZ = FrZ * TGTDistance + CamZ;
+
 	return floatsqroot((tmpX - ObjX) * (tmpX - ObjX) + (tmpY - ObjY) * (tmpY - ObjY) + (tmpZ - ObjZ) * (tmpZ - ObjZ));
 }
 
+
 stock IsPlayerAimingAt(playerid, Float:x, Float:y, Float:z, Float:radius) {
-	new Float:cx, Float:cy, Float:cz, Float:fx, Float:fy, Float:fz;
+	new Float:cx,Float:cy,Float:cz,Float:fx,Float:fy,Float:fz;
 	GetPlayerCameraPos(playerid, cx, cy, cz);
 	GetPlayerCameraFrontVector(playerid, fx, fy, fz);
 	return (radius >= DistanceCameraTargetToLocation(cx, cy, cz, x, y, z, fx, fy, fz));

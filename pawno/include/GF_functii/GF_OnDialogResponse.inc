@@ -19,6 +19,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]) {
 	SafeOnDialogResponse(playerid, dialogid, response, listitem, inputtext); // safes system copyrighted - Kurama
 	WalOnDialogResponse(playerid, dialogid, response, listitem, inputtext); // walkie talkie system copyrighted - Kurama
 	RaceSysOnDialogResponse(playerid, dialogid, response, listitem, inputtext); //race system copyrighted - Kurama
+	LicWeapOnDialogResponse(playerid, dialogid, response, listitem, inputtext); // license weapon system copyrighted - Kurama
 	if(dialogid == DIALOGID_CAR_RADIO) {
 		if(response) {
 			StartCarRadio(vID, listitem, 0, playerid);

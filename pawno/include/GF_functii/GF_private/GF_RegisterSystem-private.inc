@@ -165,6 +165,7 @@ function WhenPlayerLogin(playerid) {
 			PlayerInfo[playerid][pReferralID] = cache_get_row_int(0, 79);
 			PlayerInfo[playerid][pReferralCash] = cache_get_row_int(0, 80);
 			PlayerInfo[playerid][pReferralRespect] = cache_get_row_int(0, 81);
+			PlayerInfo[playerid][pGunLic] = cache_get_row_int(0, 82);
 		}
 		else
 		{
@@ -246,6 +247,7 @@ function WhenPlayerLogin(playerid) {
 			TextDrawShowForPlayer(playerid, DigiAP[playerid]);
 		else 
 			TextDrawHideForPlayer(playerid, DigiAP[playerid]);
+		LoadWeaponSkill(playerid);
 		clear.string(string);
 	}
 	return true;

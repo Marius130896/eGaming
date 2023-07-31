@@ -723,6 +723,7 @@ public OnPlayerConnect(playerid)
 	PlayerInfo[playerid][pReferralCash] = 0;
 	PlayerInfo[playerid][pReferralRespect] = 0;
 	PlayerInfo[playerid][pRobPoints] = 10;
+	PlayerInfo[playerid][pGunLic] = 0;
 
 	SetPlayerColor(playerid, COLOR_GRAD2);
 	return 1;
@@ -1544,6 +1545,11 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys) {
 			}
 		}
 	}
+	if(!vID) {
+		if(GetPlayerState(playerid) == PLAYER_STATE_ONFOOT) {
+			if(PInGunTest{playerid}) ShootingCheck(playerid);
+		}
+	}
 	return 1;
 }
 
@@ -1558,7 +1564,7 @@ public OnPlayerClickPlayer(playerid, clickedplayerid, source)
 }
 
 stock IsPlayerFounder(playerid) {
-	if(strcmp(PlayerName(playerid), "Kurama", true) == 0 || strcmp(PlayerName(playerid), "Ursu93", true) == 0) 
+	if(strcmp(PlayerName(playerid), "Kurama", true) == 0) 
 		return true;
 	return false;
 }
