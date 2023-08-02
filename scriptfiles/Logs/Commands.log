@@ -445,3 +445,21 @@ Kurama [CMD:]/addpickup
 Kurama [CMD:]/addpickup 1581 2 1 6 Gun License
 Kurama [CMD:]/gotobiz 15
 Kurama [CMD:]/gotobiz 14
+Kurama [CMD:]/spawntvehicle
+Kurama [CMD:]/spawntvehicle 451
+Kurama [CMD:]/spawntvehicle 451
+Kurama [CMD:]/turfs
+Kurama [CMD:]/factions
+Kurama [CMD:]/ah
+Kurama [CMD:]/setfactionlevel
+Kurama [CMD:]/setfactionlevel 1 7
+Kurama [CMD:]/setfactionlevel 2 7
+Kurama [CMD:]/setfactionlevel 3 3
+Kurama [CMD:]/setfactionlevel 4 5
+Kurama [CMD:]/setfactionlevel 5 5
+Kurama [CMD:]/setfactionlevel 6 7
+Kurama [CMD:]/setfactionlevel 7 3
+Kurama [CMD:]/setfactionlevel 8 3
+Kurama [CMD:]/setfactionlevel 9 5
+Kurama [CMD:]/setfactionlevel 10 5
+Kurama [CMD:]/factions

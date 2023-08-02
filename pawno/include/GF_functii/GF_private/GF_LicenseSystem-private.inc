@@ -217,7 +217,7 @@ stock CheckWeaponLicense(playerid) {
 
 function CheckWeapExpThd(extraid) {
 	if(extraid != INVALID_PLAYER_ID) {
-		if(cache_get_row_count()) {
+		if(cache_num_rows()) {
 			PlayerInfo[extraid][pGunLic] = cache_get_row_int(0, 82);
 			SetPlayerWeaponSkill(extraid);
 			if(ISBetween(PlayerInfo[extraid][pGunLic], 10 ,gettime())) {

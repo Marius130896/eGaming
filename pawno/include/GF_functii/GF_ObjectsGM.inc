@@ -34,6 +34,7 @@ new	CNNGATE;
 new barrierdeposit;
 new door;
 new door2;
+new FMABAR, FMABAR1;
 
 stock DelayBariera(objectid)
 	return ((gGlobalTick - DelayBar[objectid] > 14000) && !ridicata[objectid]);
@@ -227,6 +228,56 @@ function outdoor() {
     return true;
 }
 
+stock RidicaBariera(obj, bool:fbi=false) {
+	new Float:Pos[3], 
+		Float:objRot[3], 
+		extraTimp;
+#if defined _stream_objects
+	GetDynamicObjectPos(obj, Pos[0], Pos[1], Pos[2]);
+	GetDynamicObjectRot(obj, objRot[0], objRot[1], objRot[2]);
+	if(fbi)
+		extraTimp = MoveDynamicObject(obj, Pos[0], Pos[1], Pos[2]+0.01, 0.01, objRot[0], objRot[1]-90.0, objRot[2]);
+	else
+		extraTimp = MoveDynamicObject(obj, Pos[0], Pos[1], Pos[2]+0.01, 0.01, objRot[0], objRot[1]+90.0, objRot[2]);
+#else
+	GetObjectPos(obj, Pos[0], Pos[1], Pos[2]);
+	GetObjectRot(obj, objRot[0], objRot[1], objRot[2]);
+	if(fbi)
+		extraTimp = MoveObject(obj, Pos[0], Pos[1], Pos[2]+0.01, 0.01, objRot[0], objRot[1]-90.0, objRot[2]);
+	else
+		extraTimp = MoveObject(obj, Pos[0], Pos[1], Pos[2]+0.01, 0.01, objRot[0], objRot[1]+90.0, objRot[2]);
+#endif
+	if(fbi)
+		SetTimerEx("InchideBariera", 6000+extraTimp, false, "db", obj, true);
+	else
+		SetTimerEx("InchideBariera", 6000+extraTimp, false, "db", obj, false);
+	ridicata[obj] = true;
+	DelayBar[obj] = extraTimp + gGlobalTick;
+	return true;
+}
+
+function InchideBariera(obj, bool:fbi_exception) {
+	new Float:Pos[3], 
+		Float:objRot[3];
+#if defined _stream_objects
+	GetDynamicObjectPos(obj, Pos[0], Pos[1], Pos[2]);
+	GetDynamicObjectRot(obj, objRot[0], objRot[1], objRot[2]);
+	if(fbi_exception)
+		MoveDynamicObject(obj, Pos[0], Pos[1], Pos[2]-0.01, 0.01, objRot[0], objRot[1]+90.0, objRot[2]);
+	else
+		MoveDynamicObject(obj, Pos[0], Pos[1], Pos[2]-0.01, 0.01, objRot[0], objRot[1]-90.0, objRot[2]);
+#else
+	GetObjectPos(obj, Pos[0], Pos[1], Pos[2]);
+	GetObjectRot(obj, objRot[0], objRot[1], objRot[2]);
+	if(fbi_exception)
+		MoveObject(obj, Pos[0], Pos[1], Pos[2]-0.01, 0.01, objRot[0], objRot[1]+90.0, objRot[2]);
+	else
+		MoveObject(obj, Pos[0], Pos[1], Pos[2]-0.01, 0.01, objRot[0], objRot[1]-90.0, objRot[2]);
+#endif
+	ridicata[obj] = false;
+	return true;
+}
+
 stock InitBarierePorti() {
 #if defined _stream_objects
 	poartaDMV1 = CreateDynamicObject(975, 320.7399, -1488.0225, 25.1870, 0, 0, 325);
@@ -247,6 +298,8 @@ stock InitBarierePorti() {
 	MEDGATE3 = CreateDynamicObject(968,-2669.8999000,578.4000200,14.3000000,0.0000000,90.0000000,0.0000000);
 	CNNGATE = CreateDynamicObject(968,-2016.6000000,461.2000100,35.0000000, 0, 90, 90);
 	barrierdeposit = CreateDynamicObject(968, -1526.438232, 481.387238, 6.898927, 0.000000, 269.290163711, 0.000000); // bariera de la spawn ng
+	FMABAR=CreateDynamicObject(968, -2479.552002, 378.868073, 34.827151, 0.0000, 270.2408, 237.1094);//For More Adrenaline Barrier sus
+	FMABAR1=CreateDynamicObject(968, -2528.798096, 344.267914, 19.503750, 0.0000, 269.3814, 174.8434);//For More Adrenaline Barrier jos
 #else
 	poartaDMV1 = CreateObject(975, 320.7399, -1488.0225, 25.1870, 0, 0, 325);
 	poartaDMV2 = CreateObject(975, 283.5161, -1542.7693, 25.2140, 0, 0, 325);
@@ -268,6 +321,8 @@ stock InitBarierePorti() {
 	barrierdeposit = CreateObject(968, -1526.438232, 481.387238, 6.898927, 0.000000, 269.290163711, 0.000000);
     door = CreateObject(1500, 245.0578,72.4314,1002.5406,0, 0.0000, 0.0000);
     door2 = CreateObject(1500, 245.9478,72.4314,1002.5406,0, 0.0000, 0.0000);
+	FMABAR=CreateObject(968, -2479.552002, 378.868073, 34.827151, 0.0000, 270.2408, 237.1094);//For More Adrenaline Barrier sus
+	FMABAR1=CreateObject(968, -2528.798096, 344.267914, 19.503750, 0.0000, 269.3814, 174.8434);//For More Adrenaline Barrier jos
 #endif
 	return true;
 }

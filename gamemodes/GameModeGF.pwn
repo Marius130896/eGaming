@@ -11,9 +11,9 @@
 // -- GameMode created by Kurama --
 // -- Creation on date: January 2018 --
 
-//#define _srv_official "da"
+#define _srv_official "da"
 
-#define _srv_test "da"
+//#define _srv_test "da"
 
 #if defined _srv_official
 	#define gamemode_version "eGaming RPG v4 - Rebuild"
@@ -1534,6 +1534,16 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys) {
 			}
 			if(PlayerInfo[playerid][pFactiune] == FACT_CNN) {
 				if(IsPlayerInRangeOfPoint(playerid, 30.0, -2016.9852, 464.9441, 35.1719)) DeschideCNNGATE();
+			}
+			if(PlayerInfo[playerid][pFactiune] == FACT_FMA) {
+				if(IsPlayerInRangeOfPoint(playerid, 15.0,-2478.2026,381.9904,35.1022)) { 
+					if(DelayBariera(FMABAR)) RidicaBariera(FMABAR);
+					return true;
+				}
+				else if(IsPlayerInRangeOfPoint(playerid, 15.0,-2525.1699,344.2027,19.8975)) { 
+					if(DelayBariera(FMABAR1)) RidicaBariera(FMABAR1);
+					return true;
+				}
 			}
 		}
 	}
